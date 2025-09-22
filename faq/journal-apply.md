@@ -39,7 +39,7 @@ layout:
 
 ***
 
-### <mark style="color:red;background-color:yellow;">วิธีที่ 2: ขอเปิดระบบโดยไม่เข้าร่วมอบรม</mark>
+### <mark style="color:red;background-color:yellow;">วิธีที่ 2: ขอเปิดระบบโดย<u>ไม่</u>เข้าร่วมอบรม</mark>
 
 * สำหรับวารสารที่ยังไม่มีระบบและ <mark style="color:red;">**ไม่ประสงค์เข้ารับการอบรม**</mark>
 * ทีมงานวารสารที่<mark style="color:red;">**เคยผ่านการอบรมและมีประสบการณ์**</mark>ใช้งานระบบ ThaiJO แล้ว และต้องการขอเปิดระบบวารสารใหม่เพิ่มเติม
