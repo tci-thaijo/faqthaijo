@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 3. ไม่สามารถ Log in เข้าสู่ระบบได้
 
 ### <mark style="color:$success;">**สาเหตุที่พบบ่อย**</mark>

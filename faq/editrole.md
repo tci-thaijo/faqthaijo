@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 8. การเพิ่ม/ลดตำแหน่งให้กับผู้ใช้ (User)
 
 {% hint style="warning" %}

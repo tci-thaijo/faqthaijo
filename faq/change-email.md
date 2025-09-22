@@ -1,15 +1,36 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 4. การเปลี่ยนอีเมลของบัญชีผู้ใช้ | Change Your Email in the ThaiJO System
 
 {% hint style="danger" %}
-**ข้อควรระวัง:** โปรดดำเนินการให้ครบทุกขั้นตอนเพื่อป้องกันข้อผิดพลาด
+**ข้อควรระวัง:**&#x20;
 
-**Important:** Please complete all steps to avoid any errors.
+โปรดดำเนินการให้ครบทุกขั้นตอนเพื่อป้องกันข้อผิดพลาด
+
+**Important:**&#x20;
+
+Please complete all steps to avoid any errors.
 {% endhint %}
 
 ### <mark style="color:$success;">🔑</mark> <mark style="color:$success;"></mark><mark style="color:$success;">**ขั้นตอนการเปลี่ยนอีเมล | Steps to Change Your Email**</mark>
 
 {% hint style="warning" %}
-👉 ยกตัวอย่าง เช่น ต้องการเปลี่ยนอีเมลจากเดิม **tci\_admin@gmail.com** เป็น **admin@XXXXXXX.com**
+👉 ยกตัวอย่าง เช่น ต้องการเปลี่ยนอีเมลจากเดิม **`tci_admin@gmail.com`** เป็น **`admin@XXXXXXX.com`**
 {% endhint %}
 
 1. **เข้าสู่ระบบ** และไปที่เมนู **Edit Profile**\

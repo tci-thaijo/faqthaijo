@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 7. สร้างรอบการประเมินใหม่ (New Review Round) สามารถลบรอบประเมินนั้นได้หรือไม่
 
 <figure><img src=".gitbook/assets/Screenshot 2568-09-05 at 11.32.40.png" alt=""><figcaption></figcaption></figure>

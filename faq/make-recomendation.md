@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 6. ไม่มีปุ่มตัดสินบทความ แสดงเฉพาะปุ่ม "ให้ข้อเสนอแนะ | Make Recomendation"
 
 <figure><img src=".gitbook/assets/Screenshot 2568-09-08 at 10.08.47.png" alt="" width="395"><figcaption></figcaption></figure>

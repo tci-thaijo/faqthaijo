@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 5. ส่งอีเมลแจ้งผู้แต่งให้แก้ไขบทความ (Request Revisions) ไม่ได้
 
 <div><figure><img src=".gitbook/assets/Screenshot 2568-09-03 at 16.35.41 copy.png" alt="" width="261"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Picture10.png" alt=""><figcaption></figcaption></figure></div>
