@@ -1,3 +1,20 @@
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 🔄 ข้อแตกต่างระหว่าง TCI และ ThaiJO
 
 ## 🔹 TCI (Thai-Journal Citation Index Centre: ศูนย์ดัชนีการอ้างอิงวารสารไทย)
