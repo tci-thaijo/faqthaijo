@@ -21,6 +21,8 @@ layout:
 **เงื่อนไข**
 
 * ผู้ใช้ (User) ต้องอยู่ใน <mark style="color:red;">**โดเมนเดียวกันกับวารสาร**</mark>
+
+<img src=".gitbook/assets/Pic-Domain.png" alt="" data-size="original">
 {% endhint %}
 
 ### <mark style="color:green;">✅</mark> <mark style="color:$success;">วิธีการจัดการ</mark>
