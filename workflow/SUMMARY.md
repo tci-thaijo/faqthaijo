@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Editorial Workflow and Publication Process](README.md)
+* [⚙️ Editorial Workflow and Publication Process](README.md)
