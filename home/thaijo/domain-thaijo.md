@@ -1,7 +1,6 @@
 ---
-icon: globe-pointer
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
@@ -16,7 +15,7 @@ layout:
     visible: true
 ---
 
-# โดเมน (Domain) ในระบบ ThaiJO
+# 📡 โดเมน (Domain) ในระบบ ThaiJO
 
 ## ระบบ ThaiJO แบ่งโดเมน (Domain) ตามสาขาหลักของวารสาร ดังนี้
 
