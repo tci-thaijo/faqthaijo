@@ -66,7 +66,7 @@ layout:
 เพื่อยกย่องและเชิดชูเกียรติผู้ทรงคุณวุฒิที่มีส่วนสำคัญในการประเมินผลงานวิชาการของวารสารไทย
 
 {% hint style="success" %}
-# ตัวอย่างการแแสดงผล
+**ตัวอย่างการแแสดงผล**
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Picture8.png" alt=""><figcaption></figcaption></figure>
