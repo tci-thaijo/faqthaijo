@@ -37,12 +37,12 @@ layout:
     </td>
 </tr>
 <tr>
-  <td align="center"><mark style="color:$success;"><strong>Life Sciences (li)</strong></mark></td>
+  <td align="center"><mark style="color:success;"><strong>Life Sciences (li)</strong></mark></td>
   <td align="center">
-  <p><mark style="color:$success;"><strong>5</strong></mark></p>
-  <p><mark style="color:$success;">https://li01.tci-thaijo.org</mark></p>
-  <p><mark style="color:$success;">…</mark></p>
-  <p><mark style="color:$success;">https://li05.tci-thaijo.org</mark></p>
+  <p><mark style="color:success;"><strong>5</strong></mark></p>
+  <p><mark style="color:success;">https://li01.tci-thaijo.org</mark></p>
+  <p><mark style="color:success;">…</mark></p>
+  <p><mark style="color:success;">https://li05.tci-thaijo.org</mark></p>
   </td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ layout:
 
 ***
 
-#### <mark style="color:$success;">**2. Life Sciences (li) - 5 โดเมน**</mark>
+#### <mark style="color:success;">**2. Life Sciences (li) - 5 โดเมน**</mark>
 
 * **โดเมน li01.tci-thaijo.org**
   * `https://`**`li01`**`.tci-thaijo.org/index.php/`**`anres`**
