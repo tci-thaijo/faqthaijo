@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 15. ทำไมอัปโหลดรูปภาพหน้าแรกใหม่แล้ว แต่หน้าเว็บไซต์จึงยังคงแสดงรูปภาพเดิม?
 
 ### <mark style="color:$success;">**สาเหตุที่พบบ่อย**</mark> <a href="#undefined" id="undefined"></a>

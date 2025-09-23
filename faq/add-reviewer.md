@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 9. การเพิ่มผู้ประเมินที่มีบัญชีผู้ใช้อยู่ในระบบ ThaiJO แล้วให้เป็นผู้ประเมินของวารสาร
 
 เนื่องจากระบบ ThaiJO ได้มีการปรับปรุงระบบและขยายโดเมนเป็นจำนวน 35 โดเมน

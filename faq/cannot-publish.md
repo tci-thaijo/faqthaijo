@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 14. ไม่สามารถเผยแพร่บทความได้ ต้องทำอย่างไร
 
 ### <mark style="color:$success;">**สาเหตุที่พบ**</mark> <a href="#undefined" id="undefined"></a>

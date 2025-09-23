@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 12. ผู้แต่งส่งบทความเรื่องเดียวกันซ้ำหลาย ID
 
 ### <mark style="color:$success;">ตอบ</mark>

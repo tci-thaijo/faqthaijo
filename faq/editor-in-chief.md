@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 10. วารสารเปลี่ยนบรรณาธิการใหม่ ต้องทำอย่างไร?
 
 ### <mark style="color:green;">✅</mark> <mark style="color:$success;">วิธีการจัดการ</mark>

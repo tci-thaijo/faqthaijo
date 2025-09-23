@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 13. วารสารไม่นำบทความที่ผู้แต่งส่งเข้ามาไปเผยแพร่ (Published) แต่ใช้ QuickSubmit เผยแพร่ (ซำ้ 2 ID)
 
 ### 🔷 <mark style="color:$success;">การใช้ QuickSubmit ที่ถูกต้อง</mark>

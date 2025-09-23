@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 11. กอง บก. ชุดเดิม ไม่ได้แจ้ง Email & Password เข้าสู่ระบบ ThaiJO กอง บก. ชุดใหม่ ต้องทำอย่างไร
 
 ### <mark style="color:green;">✅</mark> <mark style="color:$success;">วิธีการจัดการ</mark>
@@ -44,7 +61,7 @@
 
 * เมื่อแอดมิน ThaiJO ดำเนินการแต่งตั้งตำแหน่ง บรรณาธิการ: Journal Editor (JE) ให้กับอีเมลที่วารสารแจ้งเรียบร้อยแล้ว
 * ผู้ใช้สามารถเข้าสู่ระบบและบริหารจัดการวารสารในฐานะ บรรณาธิการ: Journal Editor (JE) ได้ทันที
-* สามารถดูขั้นตอนการเปลี่ยนแปลงข้อมูล **บรรณาธิการวารสารใหม่** ได้จาก: [ **FAQ ข้อ 10**](10..md)
+* สามารถดูขั้นตอนการเปลี่ยนแปลงข้อมูล **บรรณาธิการวารสารใหม่** ได้จาก: [ **FAQ ข้อ 10**](editor-in-chief.md)
 {% endhint %}
 
 ***

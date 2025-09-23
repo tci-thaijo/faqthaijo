@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 17. วารสารต้องการเปลี่ยนแปลง URL เว็บไซต์ในระบบ ThaiJO ต้องทำอย่างไร
 
 ### <mark style="color:$success;">คำตอบ</mark>

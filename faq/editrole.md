@@ -18,14 +18,14 @@ layout:
 # 8. การเพิ่ม/ลดตำแหน่งให้กับผู้ใช้ (User)
 
 {% hint style="warning" %}
-## เงื่อนไข
+### เงื่อนไข
 
 * ผู้ใช้ (User) ต้องอยู่ใน <mark style="color:red;">**โดเมนเดียวกันกับวารสาร**</mark>
 
 <img src=".gitbook/assets/Pic-Domain.png" alt="" data-size="original">
 {% endhint %}
 
-### <mark style="color:green;">✅</mark> <mark style="color:$success;">วิธีการจัดการ</mark>
+### <mark style="color:green;">✅</mark> วิธีการจัดการ
 
 1. ไปที่เมนู **Users & Roles** → **Users** → **Search**
 2. **พิมพ์ Email** ของผู้ใช้ → **กดปุ่ม Search**

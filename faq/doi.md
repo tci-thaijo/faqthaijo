@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 19. วารสารต้องการมีเลข DOI ต้องทำอย่างไร
 
 ### <mark style="color:$success;">ตอบ</mark>
