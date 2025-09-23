@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 22. การเก็บเกี่ยวข้อมูล Metadata ผ่าน OAI ทำได้อย่างไร
 
 ### <mark style="color:$success;">ตอบ</mark>

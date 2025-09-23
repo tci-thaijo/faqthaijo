@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 21. หน้าเว็บตัวอักษรอ่านไม่ออก ต้องทำอย่างไร
 
 <figure><img src=".gitbook/assets/Picture13.png" alt=""><figcaption></figcaption></figure>

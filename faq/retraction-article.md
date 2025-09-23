@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 20. การถอดถอนบทความ (Retraction Article)
 
 การถอดถอนบทความ (RETRACTED ARTICLE) เป็นกระบวนการที่วารสารควรดำเนินการอย่างโปร่งใส ถูกต้องตามจริยธรรม และสามารถสืบค้นได้ในระบบดัชนี (Index) ต่าง ๆ เพื่อให้ผู้อ่านและผู้ใช้ฐานข้อมูลทราบว่าบทความดังกล่าวถูกถอดถอนแล้ว
