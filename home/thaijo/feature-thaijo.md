@@ -22,7 +22,7 @@ layout:
 เพื่อใช้ในการติดต่อสื่อสารกันในระบบ และมีอยู่ในทุกสถานะของบทความ
 
 {% hint style="success" %}
-**ตัวอย่างการแแสดงผล**
+# ตัวอย่างการแแสดงผล
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Picture1.png" alt=""><figcaption></figcaption></figure>
@@ -39,7 +39,7 @@ layout:
 ***
 
 {% hint style="success" %}
-**ตัวอย่างการแสดงผล**
+# ตัวอย่างการแแสดงผล
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Picture2.png" alt=""><figcaption></figcaption></figure>
@@ -51,12 +51,13 @@ layout:
 ระบบช่วย ค้นหาและแนะนำผู้ทรงคุณวุฒิ (Reviewer)
 
 {% hint style="success" %}
-**ตัวอย่างการแสดงผล**
+# ตัวอย่างการแแสดงผล
 {% endhint %}
 
 <div data-full-width="false"><figure><img src="../.gitbook/assets/Picture9.png" alt=""><figcaption></figcaption></figure></div>
 
-<h4 align="center">Website : <a href="https://reviewer-finder.openservice.in.th/">https://reviewer-finder.openservice.in.th/</a></h4>
+<h4 align="center">Website : <a href="https://reviewer-finder.openservice.in.th/">https://reviewer-finder.openservice.in.th/
+</a></h4>
 
 ***
 
@@ -65,7 +66,7 @@ layout:
 เพื่อยกย่องและเชิดชูเกียรติผู้ทรงคุณวุฒิที่มีส่วนสำคัญในการประเมินผลงานวิชาการของวารสารไทย
 
 {% hint style="success" %}
-**ตัวอย่างการแสดงผล**
+# ตัวอย่างการแแสดงผล
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Picture8.png" alt=""><figcaption></figcaption></figure>
