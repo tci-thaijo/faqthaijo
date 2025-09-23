@@ -38,64 +38,56 @@ layout:
 
 #### <mark style="color:blue;">**1. Health Sciences (he) - 5 โดเมน**</mark>
 
-**โดเมน he01.tci-thaijo.org**
+* **โดเมน he01.tci-thaijo.org**
+  * `https://`**`he01`**`.tci-thaijo.org/index.php/`**`nah`**
+  * `https://`**`he01`**`.tci-thaijo.org/index.php/`**`JHematolTransfusMed`**
 
-* `https://`**`he01`**`.tci-thaijo.org/index.php/`**`nah`**
-* `https://`**`he01`**`.tci-thaijo.org/index.php/`**`JHematolTransfusMed`**
+* **โดเมน he02.tci-thaijo.org**
+  * `https://`**`he02`**`.tci-thaijo.org/index.php/`**`jnphr`**
+  * `https://`**`he02`**`.tci-thaijo.org/index.php/`**`jaas_muvs`**
 
-**โดเมน he02.tci-thaijo.org**
-
-* `https://`**`he02`**`.tci-thaijo.org/index.php/`**`jnphr`**
-* `https://`**`he02`**`.tci-thaijo.org/index.php/`**`jaas_muvs`**
-
-<kbd>...</kbd>
+* <kbd>...</kbd>
 
 ***
 
 #### <mark style="color:$success;">**2. Life Sciences (li) - 5 โดเมน**</mark>
 
-**โดเมน li01.tci-thaijo.org**
+* **โดเมน li01.tci-thaijo.org**
+  * `https://`**`li01`**`.tci-thaijo.org/index.php/`**`anres`**
+  * `https://`**`li01`**`.tci-thaijo.org/index.php/`**`tnh`**
 
-* &#x20;`https://`**`li01`**`.tci-thaijo.org/index.php/`**`anres`**
-* &#x20;`https://`**`li01`**`.tci-thaijo.org/index.php/`**`tnh`**
+* **โดเมน li02.tci-thaijo.org**
+  * `https://`**`li02`**`.tci-thaijo.org/index.php/`**`ssstj`**
+  * `https://`**`li02`**`.tci-thaijo.org/index.php/`**`JASM`**
 
-**โดเมน li02.tci-thaijo.org**
-
-* `https://`**`li02`**`.tci-thaijo.org/index.php/`**`ssstj`**
-* `https://`**`li02`**`.tci-thaijo.org/index.php/`**`JASM`**
-
-<kbd>...</kbd>
+* <kbd>...</kbd>
 
 ***
 
 #### <mark style="color:orange;">**3. Physical Sciences (ph) - 5 โดเมน**</mark>
 
-**โดเมน ph01.tci-thaijo.org**
+* **โดเมน ph01.tci-thaijo.org**
+  * `https://`**`ph01`**`.tci-thaijo.org/index.php/`**`JIE`**
+  * `https://`**`ph01`**`.tci-thaijo.org/index.php/`**`easr`**
 
-* &#x20;`https://`**`ph01`**`.tci-thaijo.org/index.php/`**`JIE`**
-* `https://`**`ph01`**`.tci-thaijo.org/index.php/`**`easr`**
+* **โดเมน ph02.tci-thaijo.org**
+  * `https://`**`ph02`**`.tci-thaijo.org/index.php/`**`swujournal`**
+  * `https://`**`ph02`**`.tci-thaijo.org/index.php/`**`gskku`**
 
-**โดเมน ph02.tci-thaijo.org**
-
-* `https://`**`ph02`**`.tci-thaijo.org/index.php/`**`swujournal`**
-* `https://`**`ph02`**`.tci-thaijo.org/index.php/`**`gskku`**
-
-<kbd>...</kbd>
+* <kbd>...</kbd>
 
 ***
 
 #### <mark style="color:red;">**4. Social Sciences & Humanities (so) – 20 โดเมน**</mark>
 
-**โดเมน so01.tci-thaijo.org**
+* **โดเมน so01.tci-thaijo.org**
+  * `https://`**`so01`**`.tci-thaijo.org/index.php/`**`NUR_YIU`**
+  * `https://`**`so01`**`.tci-thaijo.org/index.php/`**`CBSReview`**
 
-* `https://`**`so01`**`.tci-thaijo.org/index.php/`**`NUR_YIU`**
-* `https://`**`so01`**`.tci-thaijo.org/index.php/`**`CBSReview`**
+* **โดเมน so02.tci-thaijo.org**
+  * `https://`**`so02`**`.tci-thaijo.org/index.php/`**`jica`**
+  * `https://`**`so02`**`.tci-thaijo.org/index.php/`**`SNGSJ`**
 
-**โดเมน so02.tci-thaijo.org**
-
-* `https://`**`so02`**`.tci-thaijo.org/index.php/`**`jica`**
-* `https://`**`so02`**`.tci-thaijo.org/index.php/`**`SNGSJ`**
-
-<kbd>...</kbd>
+* <kbd>...</kbd>
 
 ***
