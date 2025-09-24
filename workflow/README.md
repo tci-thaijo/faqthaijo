@@ -19,8 +19,8 @@ layout:
 
 <div data-full-width="false"><figure><img src=".gitbook/assets/workflow-thaijo.png" alt=""><figcaption></figcaption></figure></div>
 
-{% hint style="info" %}
-# แนวปฏิบัติ
+{% hint style="warning" %}
+## แนวปฏิบัติ
 
 <mark style="color:orange;background-color:purple;">**บทความ 1 เรื่อง ควรมีเพียง 1 รหัส (ID) เท่านั้น**</mark>
 
