@@ -22,7 +22,7 @@ layout:
 {% hint style="warning" %}
 ## แนวปฏิบัติ
 
-<mark style="color:orange;background-color:purple;">**บทความ 1 เรื่อง ควรมีเพียง 1 รหัส (ID) เท่านั้น**</mark>
+<mark style="color:purple;background-color:yellow;">**บทความ 1 เรื่อง ควรมีเพียง 1 รหัส (ID) เท่านั้น**</mark>❗
 
 โปรดดำเนินการกับบทความจนเสร็จสิ้นกระบวนการ (ไม่รับตีพิมพ์ – Declined❌ _หรือ_ เผยแพร่ – Published✅) เพื่อป้องกันความซ้ำซ้อน
 {% endhint %}
