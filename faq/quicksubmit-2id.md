@@ -43,9 +43,6 @@ layout:
 1. **ค้นหาบทความ**
    * ค้นหาบทความที่ **All Active (อยู่ระหว่างดำเนินการ)** → **เข้าไปที่บทความ**
    * _บางกรณีบทความอาจจะอยู่ที่ Archives (คลังบทความ)_
-
-<figure><img src=".gitbook/assets/Screenshot 2568-09-11 at 14.20.05.png" alt="" width="563"><figcaption></figcaption></figure>
-
 2. **Workflow ของบทความ**
    * บทความต้องอยู่ที่ สถานะ **Production**
    * หากยังไม่อยู่ที่ Production ทำตามขั้นตอน:
@@ -54,6 +51,8 @@ layout:
      * Review **(Accept Submission)**
      * Copyediting **(Send To Production)**
      * Production (บทความเข้าสู่สถานะ **Production** ✅)
+
+<figure><img src=".gitbook/assets/Screenshot 2568-09-11 at 14.20.05.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **หมายเหตุ**
