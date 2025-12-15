@@ -1,8 +1,9 @@
 # Table of contents
 
 * [🌐 Thai Journals Online (ThaiJO)](README.md)
+* [📘 Download: คู่มือการใช้งานระบบ ThaiJO (ฉบับเต็ม)](https://drive.google.com/file/d/1FHf1iGGokeJUTDWKaSvuKZfH1TC1omRc/view)
 
-## เกี่ยวกับ ThaiJO
+## เกี่ยวกับระบบ ThaiJO
 
 * [📡 โดเมน (Domain) ในระบบ ThaiJO](thaijo/domain-thaijo.md)
 * [👨‍👩‍👧‍👧 ระบบ Login กลาง เรียกว่า "Single Sign-On (SSO)"](thaijo/login-sso.md)
