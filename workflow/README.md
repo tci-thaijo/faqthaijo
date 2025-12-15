@@ -1,28 +1,3 @@
----
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
+# 📘 คู่มือการใช้งานระบบ ThaiJO
 
-# ⚙️ Editorial Workflow and Publication Process
-
-<div data-full-width="false"><figure><img src=".gitbook/assets/workflow-thaijo.png" alt=""><figcaption></figcaption></figure></div>
-
-{% hint style="warning" %}
-## แนวปฏิบัติ
-
-<mark style="color:purple;background-color:yellow;">**บทความ 1 เรื่อง ควรมีเพียง 1 รหัส (ID) เท่านั้น**</mark>❗
-
-โปรดดำเนินการกับบทความจนเสร็จสิ้นกระบวนการ (ไม่รับตีพิมพ์ – Declined❌ _หรือ_ เผยแพร่ – Published✅) เพื่อป้องกันความซ้ำซ้อน
-{% endhint %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><a href="https://drive.google.com/file/d/1FHf1iGGokeJUTDWKaSvuKZfH1TC1omRc/view?usp=sharing">คู่มือการใช้งานระบบ ThaiJO (OJS 3.3.0.8)</a> <a href="https://drive.google.com/file/d/1FHf1iGGokeJUTDWKaSvuKZfH1TC1omRc/view?usp=sharing">(ดาวน์โหลดเล่มเต็ม) </a></h4><p>อัปเดตเมื่อ 01/02/2565</p></td><td><a href=".gitbook/assets/Screenshot 2568-12-15 at 10.36.23.png">Screenshot 2568-12-15 at 10.36.23.png</a></td></tr></tbody></table>

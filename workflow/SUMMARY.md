@@ -1,3 +1,4 @@
 # Table of contents
 
-* [⚙️ Editorial Workflow and Publication Process](README.md)
+* [📘 คู่มือการใช้งานระบบ ThaiJO](README.md)
+* [⚙️ Editorial Workflow and Publication Process](<README (1).md>)
