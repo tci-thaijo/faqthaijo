@@ -17,4 +17,6 @@ layout:
 
 # 📘 คู่มือการใช้งานระบบ ThaiJO (ภาษาไทย)
 
-#### [คู่มือการใช้งานระบบ ThaiJO (OJS 3.3.0.8)](https://drive.google.com/file/d/1FHf1iGGokeJUTDWKaSvuKZfH1TC1omRc/view?usp=sharing) [(ดาวน์โหลดฉบับเต็ม) ](https://drive.google.com/file/d/1FHf1iGGokeJUTDWKaSvuKZfH1TC1omRc/view?usp=sharing)🔗
+#### [คู่มือการใช้งานระบบ ThaiJO (ภาษาไทย)](https://drive.google.com/file/d/1FHf1iGGokeJUTDWKaSvuKZfH1TC1omRc/view?usp=sharing) [(ดาวน์โหลดฉบับเต็ม) ](https://drive.google.com/file/d/1FHf1iGGokeJUTDWKaSvuKZfH1TC1omRc/view?usp=sharing)🔗&#x20;
+
+{% embed url="https://drive.google.com/file/d/1FHf1iGGokeJUTDWKaSvuKZfH1TC1omRc/view" %}
