@@ -16,7 +16,7 @@
 {% endcolumn %}
 {% endcolumns %}
 
-_การตรวจสอบความคล้ายระหว่าง_
+
 
 {% columns %}
 {% column width="41.66666666666667%" valign="middle" %}
@@ -27,8 +27,6 @@ _การตรวจสอบความคล้ายระหว่าง_
 <p align="center">บทความที่ส่งเข้าระบบใหม่</p>
 
 <figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
-
-<p align="center">ไฟล์ <mark style="background-color:yellow;"><strong>Article Text ล่าสุด</strong></mark><br>ในหัวข้อ <mark style="color:orange;"><strong>Submission Files</strong></mark></p>
 {% endcolumn %}
 
 {% column width="16.666666666666668%" %}
@@ -45,7 +43,7 @@ _**เทียบกับ**_
 {% hint style="info" %}
 ## ข้อควรทราบ
 
-* ระบบจะนำไฟล์ <mark style="background-color:yellow;">**Article Text**</mark> ที่อัปโหลด**ล่าสุด**ในหัวข้อ **Submission Files** ไปตรวจสอบความคล้าย**อัตโนมัติ**
+* ระบบจะนำไฟล์ <mark style="color:red;background-color:yellow;">**Article Text**</mark> ที่อัปโหลด<mark style="color:red;background-color:yellow;">**ล่าสุด**</mark>ในหัวข้อ <mark style="color:red;background-color:yellow;">**Submission Files**</mark> ไปตรวจสอบความคล้าย<mark style="color:red;background-color:yellow;">**อัตโนมัติ**</mark>
 * การตรวจสอบในกรณีนี้ <mark style="color:red;background-color:yellow;">**ดำเนินการเพียงครั้งเดียวเท่านั้น**</mark>\
   หากมีการอัปโหลดไฟล์ **Article Text** เพิ่มเติมในหัวข้อ **Submission Files** ระบบจะ **ไม่นำไฟล์ไปตรวจซ้ำ**
 {% endhint %}
@@ -66,7 +64,7 @@ _**เทียบกับ**_
 {% endcolumn %}
 {% endcolumns %}
 
-การตรวจสอบความคล้ายระหว่าง
+
 
 {% columns %}
 {% column width="41.66666666666667%" valign="middle" %}
@@ -77,8 +75,6 @@ _**เทียบกับ**_
 <p align="center">บทความที่ส่งเข้าระบบใหม่</p>
 
 <figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
-
-<p align="center">ไฟล์ <mark style="background-color:yellow;"><strong>Article Text ล่าสุด</strong></mark><br>ในหัวข้อ <mark style="color:orange;"><strong>Submission Files</strong></mark></p>
 {% endcolumn %}
 
 {% column width="16.666666666666668%" %}
@@ -97,8 +93,8 @@ _**เทียบกับ**_
 {% hint style="info" %}
 ## ข้อควรทราบ
 
-* ระบบจะนำไฟล์ <mark style="background-color:yellow;">**Article Text**</mark> ที่อัปโหลด**ล่าสุด**ในหัวข้อ **Submission Files** ไปตรวจสอบความคล้าย**อัตโนมัติ**
-* ระบบจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**ทุกครั้งที่มีการอัปโหลด**</mark>ไฟล์ **Article Text** เพิ่มเติมในหัวข้อ **Submission Files**
+* ระบบจะนำไฟล์ <mark style="color:red;background-color:yellow;">**Article Text**</mark> ที่อัปโหลด<mark style="color:red;background-color:yellow;">**ล่าสุด**</mark>ในหัวข้อ <mark style="color:red;background-color:yellow;">**Submission Files**</mark> ไปตรวจสอบความคล้าย<mark style="color:red;background-color:yellow;">**อัตโนมัติ**</mark>
+* ระบบจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**ทุกครั้งที่มีการอัปโหลด**</mark>ไฟล์ **Article Text** เพิ่มเติมในหัวข้อ <mark style="color:red;background-color:yellow;">**Submission Files**</mark>
 {% endhint %}
 
 {% columns %}
@@ -130,8 +126,8 @@ _**เทียบกับ**_
 {% hint style="info" %}
 ## ข้อควรทราบ
 
-* ระบบจะดำเนินการตรวจสอบอีกครั้ง **เมื่อมีการแก้ไขบทความ** โดยจะนำไฟล์ **Article Text** ที่อัปโหลดล่าสุดในหัวข้อ **Revisions** ไปตรวจสอบความคล้าย**อัตโนมัติ**
-* ระบบจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**ทุกครั้งที่มีการอัปโหลด**</mark>ไฟล์ **Article Text** เพิ่มเติมในหัวข้อ **Revisions**
+* ระบบจะดำเนินการตรวจสอบอีกครั้ง <mark style="color:purple;background-color:red;">**เมื่อมีการแก้ไขบทความ**</mark> โดยจะนำไฟล์ <mark style="color:purple;background-color:red;">**Article Text**</mark> ที่อัปโหลด<mark style="color:purple;background-color:red;">**ล่าสุด**</mark>ในหัวข้อ <mark style="color:purple;background-color:red;">**Revisions**</mark> ไปตรวจสอบความคล้าย<mark style="color:purple;background-color:red;">**อัตโนมัติ**</mark>
+* ระบบจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**ทุกครั้งที่มีการอัปโหลด**</mark>ไฟล์ **Article Text** เพิ่มเติมในหัวข้อ <mark style="color:purple;background-color:red;">**Revisions**</mark>
 {% endhint %}
 
 ***
