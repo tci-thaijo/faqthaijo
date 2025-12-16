@@ -4,7 +4,7 @@
 
 {% columns %}
 {% column width="16.666666666666664%" %}
-<h4 align="center">แบบที่ 1</h4>
+<h4 align="center"><mark style="color:blue;"><strong>แบบที่ 1</strong></mark></h4>
 {% endcolumn %}
 
 {% column width="16.666666666666664%" %}
@@ -12,7 +12,7 @@
 {% endcolumn %}
 
 {% column width="66.66666666666667%" %}
-#### **ตรวจเทียบกับบทความที่ยังไม่เผยแพร่**
+#### <mark style="color:blue;">**ตรวจเทียบกับบทความที่ยังไม่เผยแพร่**</mark>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -22,15 +22,17 @@
 {% column width="41.66666666666667%" valign="middle" %}
 <h4 align="center"><strong>สถานะ Submission</strong></h4>
 
+<figure><img src=".gitbook/assets/submission.png" alt="" width="128"><figcaption></figcaption></figure>
+
 <p align="center">บทความที่ส่งเข้าระบบใหม่</p>
 
-<p align="center">ไฟล์ Article Text ล่าสุด ในหัวข้อ Submission Files</p>
+<p align="center">ไฟล์ <mark style="color:red;background-color:blue;"><strong>Article Text ล่าสุด</strong></mark><br>ในหัวข้อ Submission Files</p>
 
 <figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="16.666666666666668%" %}
-_<mark style="color:orange;">**เทียบกับ**</mark>_
+_**เทียบกับ**_
 {% endcolumn %}
 
 {% column width="41.66666666666664%" %}
@@ -41,8 +43,8 @@ _<mark style="color:orange;">**เทียบกับ**</mark>_
 {% endcolumns %}
 
 {% hint style="warning" %}
-* ระบบจะนำบทความไปตรวจ ตั้งแต่ เวลา 03.00 น. ของทุกวันโดยอัตโนมัติ และ**ทำครั้งเดียวเท่านั้น**
-* <img src=".gitbook/assets/copycatch-grey.png" alt="" data-size="line"> C สีเทา หมายถึง ยังไม่มีผลความคล้าย เนื่องจาก
+* ระบบจะนำไฟล์ <mark style="color:red;background-color:blue;">**Article Text ล่าสุด**</mark> ไปตรวจอัตโนมัติ ตั้งแต่ เวลา 03.00 น. ของทุกวัน และ<mark style="color:red;background-color:yellow;">**ทำครั้งเดียวเท่านั้น**</mark>
+* <img src=".gitbook/assets/copycatch-grey.png" alt="C สีเทา" data-size="line"> C สีเทา หมายถึง ยังไม่มีผลการตรวจสอบความคล้าย เนื่องจาก
   * เกิดปัญหาในการตรวจไฟล์นั้น ๆ
   * บทความยังไม่อยู่ในสถานะที่สามารถนำไปตรวจได้
 {% endhint %}
@@ -51,7 +53,7 @@ _<mark style="color:orange;">**เทียบกับ**</mark>_
 
 {% columns %}
 {% column width="16.666666666666664%" %}
-<h4 align="center">แบบที่ 2</h4>
+<h4 align="center"><mark style="color:red;"><strong>แบบที่ 2</strong></mark></h4>
 {% endcolumn %}
 
 {% column width="16.666666666666664%" %}
@@ -59,51 +61,67 @@ _<mark style="color:orange;">**เทียบกับ**</mark>_
 {% endcolumn %}
 
 {% column width="66.66666666666667%" %}
-#### **ตรวจเทียบกับบทความที่เผยแพร่แล้ว**
+#### <mark style="color:red;">**ตรวจเทียบกับบทความที่เผยแพร่แล้ว**</mark>
 {% endcolumn %}
 {% endcolumns %}
-
-{% hint style="warning" %}
-* ทำทุกครั้งที่มีการเปลี่ยนไฟล์
-* <img src=".gitbook/assets/unknown.png" alt="" data-size="original">  C สีเทา  คือ  ยังไม่มีผลความคล้ายเนื่องจากปัญหาในการตรวจไฟล์นั้น ๆ หรือไม่อยู่ในสถานะที่จะนำบทความไปตรวจ
-{% endhint %}
 
 การตรวจสอบความคล้ายระหว่าง
 
 {% columns %}
 {% column width="41.66666666666667%" valign="middle" %}
-#### **สถานะ Submission**
+<h4 align="center"><strong>สถานะ Submission</strong></h4>
 
-บทความที่ส่งเข้าระบบใหม่
+<figure><img src=".gitbook/assets/submission.png" alt="" width="128"><figcaption></figcaption></figure>
+
+<p align="center">บทความที่ส่งเข้าระบบใหม่</p>
+
+<p align="center">ไฟล์ <mark style="color:red;background-color:blue;"><strong>Article Text ล่าสุด</strong></mark><br>ในหัวข้อ Submission Files</p>
+
+<figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
-{% column width="16.666666666666668%" valign="middle" %}
+{% column width="16.666666666666668%" %}
 _**เทียบกับ**_
 {% endcolumn %}
 
 {% column width="41.66666666666664%" %}
-#### **สถานะ Published**
+<h4 align="center"><strong>สถานะ Published</strong></h4>
 
-บทความที่เผยแพร่แล้ว
+<figure><img src=".gitbook/assets/published.png" alt="" width="101"><figcaption></figcaption></figure>
+
+<p align="center">บทความที่เผยแพร่แล้วในระบบ</p>
 {% endcolumn %}
 {% endcolumns %}
-
-
 
 {% columns %}
 {% column width="41.66666666666667%" valign="middle" %}
-#### **สถานะ Review**
+<h4 align="center"><strong>สถานะ Review</strong></h4>
 
-บทความที่มีการแก้ไข
+<figure><img src=".gitbook/assets/review.png" alt="" width="97"><figcaption></figcaption></figure>
+
+<p align="center">บทความที่มีการแก้ไข</p>
+
+<p align="center">ไฟล์ <mark style="color:red;background-color:blue;"><strong>Article Text ล่าสุด</strong></mark><br>ในหัวข้อ Revisions</p>
+
+<figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 14.20.04 (1).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
-{% column width="16.666666666666668%" valign="middle" %}
+{% column width="16.666666666666668%" %}
 _**เทียบกับ**_
 {% endcolumn %}
 
 {% column width="41.66666666666664%" %}
-#### **สถานะ Published**
+<h4 align="center"><strong>สถานะ Published</strong></h4>
 
-บทความที่เผยแพร่แล้ว
+<figure><img src=".gitbook/assets/published.png" alt="" width="101"><figcaption></figcaption></figure>
+
+<p align="center">บทความที่เผยแพร่แล้วในระบบ</p>
 {% endcolumn %}
 {% endcolumns %}
+
+{% hint style="warning" %}
+* ระบบจะนำไฟล์ <mark style="color:red;background-color:blue;">**Article Text ล่าสุด**</mark> ไปตรวจอัตโนมัติ ตั้งแต่ เวลา 03.00 น. ของทุกวัน และ<mark style="color:red;background-color:yellow;">**ทำทุกครั้งที่มีการเปลี่ยนไฟล์**</mark>
+* <img src=".gitbook/assets/copycatch-grey.png" alt="C สีเทา" data-size="line"> C สีเทา หมายถึง ยังไม่มีผลการตรวจสอบความคล้าย เนื่องจาก
+  * เกิดปัญหาในการตรวจไฟล์นั้น ๆ
+  * บทความยังไม่อยู่ในสถานะที่สามารถนำไปตรวจได้
+{% endhint %}
