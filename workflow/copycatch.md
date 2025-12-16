@@ -16,22 +16,17 @@
 {% endcolumn %}
 {% endcolumns %}
 
-{% hint style="warning" %}
-* ทำครั้งเดียวเท่านั้น
-* ![](.gitbook/assets/unknown.png)  C สีเทา  คือ  ยังไม่มีผลความคล้ายเนื่องจากปัญหาในการตรวจไฟล์นั้น ๆ หรือไม่อยู่ในสถานะที่จะนำบทความไปตรวจ
-{% endhint %}
-
 การตรวจสอบความคล้ายระหว่าง
 
 {% columns %}
 {% column width="41.66666666666667%" valign="middle" %}
 <h4 align="center"><strong>สถานะ Submission</strong></h4>
 
-<p align="center">บทความที่ส่งเข้าระบบใหม่<br>(Submission Files)</p>
+<p align="center">บทความที่ส่งเข้าระบบใหม่</p>
+
+<p align="center">ไฟล์ Article Text ล่าสุด ในหัวข้อ Submission Files</p>
 
 <figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
-
-<p align="center"></p>
 {% endcolumn %}
 
 {% column width="16.666666666666668%" %}
@@ -41,9 +36,16 @@ _<mark style="color:orange;">**เทียบกับ**</mark>_
 {% column width="41.66666666666664%" %}
 <h4 align="center"><strong>สถานะ Unpublished</strong></h4>
 
-<p align="center">บทความที่ยังไม่เผยแพร่</p>
+<p align="center">บทความอื่น ๆ ที่ยังไม่เผยแพร่ในระบบ</p>
 {% endcolumn %}
 {% endcolumns %}
+
+{% hint style="warning" %}
+* ระบบจะนำบทความไปตรวจ ตั้งแต่ เวลา 03.00 น. ของทุกวันโดยอัตโนมัติ และ**ทำครั้งเดียวเท่านั้น**
+* <img src=".gitbook/assets/copycatch-grey.png" alt="" data-size="line"> C สีเทา หมายถึง ยังไม่มีผลความคล้าย เนื่องจาก
+  * เกิดปัญหาในการตรวจไฟล์นั้น ๆ
+  * บทความยังไม่อยู่ในสถานะที่สามารถนำไปตรวจได้
+{% endhint %}
 
 ***
 
