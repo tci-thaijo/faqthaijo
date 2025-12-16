@@ -1,6 +1,6 @@
 # 📕 คู่มือการใช้งานระบบการตรวจสอบความคล้าย (Copycatch)
 
-## รูปแบบการตรวจสอบความคล้าย (Copycatch)
+### <mark style="color:$success;">รูปแบบการตรวจสอบความคล้าย (Copycatch)</mark>
 
 {% columns %}
 {% column width="16.666666666666664%" %}
@@ -16,15 +16,17 @@
 {% endcolumn %}
 {% endcolumns %}
 
-การตรวจสอบความคล้ายระหว่าง
+_การตรวจสอบความคล้ายระหว่าง_
 
 {% columns %}
 {% column width="41.66666666666667%" valign="middle" %}
-#### **1) สถานะ Submission**
+<h4 align="center"><strong>สถานะ Submission</strong></h4>
 
 <figure><img src=".gitbook/assets/submission.png" alt="" width="128"><figcaption></figcaption></figure>
 
 <p align="center">บทความที่ส่งเข้าระบบใหม่</p>
+
+<figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
 
 <p align="center">ไฟล์ <mark style="background-color:yellow;"><strong>Article Text ล่าสุด</strong></mark><br>ในหัวข้อ <mark style="color:orange;"><strong>Submission Files</strong></mark></p>
 {% endcolumn %}
@@ -39,8 +41,6 @@ _**เทียบกับ**_
 <p align="center">บทความอื่น ๆ ที่ยังไม่เผยแพร่ในระบบ</p>
 {% endcolumn %}
 {% endcolumns %}
-
-<figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ## ข้อควรทราบ
@@ -76,6 +76,8 @@ _**เทียบกับ**_
 
 <p align="center">บทความที่ส่งเข้าระบบใหม่</p>
 
+<figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
+
 <p align="center">ไฟล์ <mark style="background-color:yellow;"><strong>Article Text ล่าสุด</strong></mark><br>ในหัวข้อ <mark style="color:orange;"><strong>Submission Files</strong></mark></p>
 {% endcolumn %}
 
@@ -92,8 +94,6 @@ _**เทียบกับ**_
 {% endcolumn %}
 {% endcolumns %}
 
-<figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 ## ข้อควรทราบ
 
@@ -108,6 +108,8 @@ _**เทียบกับ**_
 <figure><img src=".gitbook/assets/review.png" alt="" width="97"><figcaption></figcaption></figure>
 
 <p align="center">บทความที่มีการแก้ไข</p>
+
+<figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 14.20.04 (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center">ไฟล์ <mark style="background-color:yellow;"><strong>Article Text ล่าสุด</strong></mark><br>ในหัวข้อ <mark style="color:purple;"><strong>Revisions</strong></mark></p>
 {% endcolumn %}
@@ -125,14 +127,14 @@ _**เทียบกับ**_
 {% endcolumn %}
 {% endcolumns %}
 
-<figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 14.20.04 (1).png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 ## ข้อควรทราบ
 
 * ระบบจะดำเนินการตรวจสอบอีกครั้ง **เมื่อมีการแก้ไขบทความ** โดยจะนำไฟล์ **Article Text** ที่อัปโหลดล่าสุดในหัวข้อ **Revisions** ไปตรวจสอบความคล้าย**อัตโนมัติ**
 * ระบบจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**ทุกครั้งที่มีการอัปโหลด**</mark>ไฟล์ **Article Text** เพิ่มเติมในหัวข้อ **Revisions**
 {% endhint %}
+
+***
 
 {% hint style="warning" %}
 ## ⚠️ หมายเหตุ
