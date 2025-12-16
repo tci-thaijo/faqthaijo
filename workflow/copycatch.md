@@ -45,9 +45,11 @@ _**เทียบกับ**_
 {% hint style="info" %}
 ## ข้อควรทราบ
 
-* ระบบจะนำไฟล์ <mark style="background-color:yellow;">**Article Text ล่าสุด**</mark> ที่อัปโหลดล่าสุดใน **Submission Files** ไปตรวจอัตโนมัติ
-* ตั้งแต่ เวลา **03.00 น. ของทุกวัน**&#x20;
-* ระบบจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**เพียงครั้งเดียวเท่านั้น**</mark>
+* ระบบจะเริ่มดำเนินการตรวจตั้งแต่เวลา **03.00 น.** (เวลาประเทศไทย GMT+7) **ของทุกวัน**
+* **สถานะ Submission**\
+  ระบบจะนำไฟล์ <mark style="background-color:yellow;">**Article Text**</mark> ที่อัปโหลด**ล่าสุด**ในหัวข้อ **Submission Files** ไปตรวจสอบความคล้าย**อัตโนมัติ**
+* การตรวจสอบในกรณีนี้ <mark style="color:red;background-color:yellow;">**ดำเนินการเพียงครั้งเดียวเท่านั้น**</mark>\
+  หากมีการอัปโหลดไฟล์ **Article Text** เพิ่มเติมในหัวข้อ **Submission Files** ระบบจะ **ไม่นำไฟล์ดังกล่าวไปตรวจซ้ำ**
 {% endhint %}
 
 ***
@@ -94,6 +96,15 @@ _**เทียบกับ**_
 
 <figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+## ข้อควรทราบ
+
+* **สถานะ Submission**\
+  ระบบจะนำไฟล์ <mark style="background-color:yellow;">**Article Text**</mark> ที่อัปโหลด**ล่าสุด**ในหัวข้อ **Submission Files** ไปตรวจสอบความคล้าย**อัตโนมัติ**
+* ระบบจะเริ่มดำเนินการตรวจตั้งแต่เวลา **03.00 น.** (เวลาประเทศไทย GMT+7) **ของทุกวัน**
+* ระบบจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**ทุกครั้งที่มีการอัปโหลด**</mark>ไฟล์ **Article Text** เพิ่มเติมในหัวข้อ **Submission Files**
+{% endhint %}
+
 {% columns %}
 {% column width="41.66666666666667%" valign="middle" %}
 #### **2) สถานะ Review**
@@ -123,20 +134,16 @@ _**เทียบกับ**_
 {% hint style="info" %}
 ## ข้อควรทราบ
 
-*
-* สถานะ Submission: ระบบจะนำไฟล์ <mark style="background-color:yellow;">**Article Text**</mark> ที่อัปโหลดล่าสุดใน **Submission Files** ไปตรวจอัตโนมัติ&#x20;
-* สถานะ Review: ระบบจะไม่นำ  **Submission Files  ไปตรวจ** โดยจะตรวจสอบอีกครั้งเมื่อมีการแก้ไขบทความ คือ ไฟล์ <mark style="background-color:yellow;">**Article Text**</mark> ที่อัปโหลดล่าสุดใน Revisions&#x20;
-* ระบบจะนำบทความไปตรวจความคล้าย ตั้งแต่ เวลา **03.00 น.** (เวลาประเทศไทย GMT+7) **ของทุกวัน**&#x20;
-* ระบบจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**ทุกครั้งที่มีการเปลี่ยนไฟล์**</mark>
+* **สถานะ Review** \
+  ระบบจะดำเนินการตรวจสอบอีกครั้ง **เมื่อมีการแก้ไขบทความ** โดยจะนำไฟล์ **Article Text** ที่อัปโหลดล่าสุดในหัวข้อ **Revisions** ไปตรวจสอบความคล้าย**อัตโนมัติ**
+* ระบบจะเริ่มดำเนินการตรวจตั้งแต่เวลา **03.00 น.** (เวลาประเทศไทย GMT+7) **ของทุกวัน**
+* ระบบจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**ทุกครั้งที่มีการอัปโหลด**</mark>ไฟล์ **Article Text** เพิ่มเติมในหัวข้อ **Revisions**
 {% endhint %}
 
 {% hint style="warning" %}
-## ⚠️ หมายเหตุ / ข้อควรทราบ
+## ⚠️ หมายเหตุ
 
-* ระบบจะนำไฟล์ <mark style="background-color:yellow;">**Article Text ล่าสุด**</mark> ไปตรวจอัตโนมัติ
-* ตั้งแต่ เวลา **03.00 น. ของทุกวัน** และจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**ทุกครั้งที่มีการเปลี่ยนไฟล์**</mark>
-* ตั้งแต่ เวลา **03.00 น. ของทุกวัน** และจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**ทุกครั้งที่มีการเปลี่ยนไฟล์**</mark>
-* <img src=".gitbook/assets/copycatch-grey.png" alt="C สีเทา" data-size="line"> **C สีเทา** หมายถึง หมายถึง ระบบยังไม่มีผลการตรวจสอบความคล้าย เนื่องจากเกิดปัญหาในการตรวจไฟล์ หรือบทความยังไม่อยู่ในสถานะที่สามารถนำไปตรวจได้
+* <img src=".gitbook/assets/copycatch-grey.png" alt="C สีเทา" data-size="line"> **C สีเทา** หมายถึง ระบบยังไม่มีผลการตรวจสอบความคล้าย เนื่องจากเกิดปัญหาในการตรวจไฟล์ หรือบทความยังไม่อยู่ในสถานะที่สามารถนำไปตรวจได้
 *   ตัวอย่างสาเหตุที่พบบ่อย ได้แก่
 
     * อัปโหลดไฟล์ผิดประเภท\
