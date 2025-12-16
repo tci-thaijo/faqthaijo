@@ -42,11 +42,12 @@ _**เทียบกับ**_
 
 <figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-* ระบบจะนำไฟล์ <mark style="background-color:yellow;">**Article Text ล่าสุด**</mark> ไปตรวจอัตโนมัติ ตั้งแต่ เวลา 03.00 น. ของทุกวัน และ<mark style="color:red;background-color:yellow;">**ทำครั้งเดียวเท่านั้น**</mark>
-* <img src=".gitbook/assets/copycatch-grey.png" alt="C สีเทา" data-size="line"> C สีเทา หมายถึง ยังไม่มีผลการตรวจสอบความคล้าย เนื่องจาก
-  * เกิดปัญหาในการตรวจไฟล์นั้น ๆ
-  * บทความยังไม่อยู่ในสถานะที่สามารถนำไปตรวจได้
+{% hint style="info" %}
+## ข้อควรทราบ
+
+* ระบบจะนำไฟล์ <mark style="background-color:yellow;">**Article Text ล่าสุด**</mark> ที่อัปโหลดล่าสุดใน **Submission Files** ไปตรวจอัตโนมัติ
+* ตั้งแต่ เวลา **03.00 น. ของทุกวัน**&#x20;
+* ระบบจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**เพียงครั้งเดียวเท่านั้น**</mark>
 {% endhint %}
 
 ***
@@ -119,9 +120,31 @@ _**เทียบกับ**_
 
 <figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 14.20.04 (1).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+## ข้อควรทราบ
+
+*
+* สถานะ Submission: ระบบจะนำไฟล์ <mark style="background-color:yellow;">**Article Text**</mark> ที่อัปโหลดล่าสุดใน **Submission Files** ไปตรวจอัตโนมัติ&#x20;
+* สถานะ Review: ระบบจะไม่นำ  **Submission Files  ไปตรวจ** โดยจะตรวจสอบอีกครั้งเมื่อมีการแก้ไขบทความ คือ ไฟล์ <mark style="background-color:yellow;">**Article Text**</mark> ที่อัปโหลดล่าสุดใน Revisions&#x20;
+* ระบบจะนำบทความไปตรวจความคล้าย ตั้งแต่ เวลา **03.00 น.** (เวลาประเทศไทย GMT+7) **ของทุกวัน**&#x20;
+* ระบบจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**ทุกครั้งที่มีการเปลี่ยนไฟล์**</mark>
+{% endhint %}
+
 {% hint style="warning" %}
-* ระบบจะนำไฟล์ <mark style="background-color:yellow;">**Article Text ล่าสุด**</mark> ไปตรวจอัตโนมัติ ตั้งแต่ เวลา 03.00 น. ของทุกวัน และ<mark style="color:red;background-color:yellow;">**ทำทุกครั้งที่มีการเปลี่ยนไฟล์**</mark>
-* <img src=".gitbook/assets/copycatch-grey.png" alt="C สีเทา" data-size="line"> C สีเทา หมายถึง ยังไม่มีผลการตรวจสอบความคล้าย เนื่องจาก
-  * เกิดปัญหาในการตรวจไฟล์นั้น ๆ
-  * บทความยังไม่อยู่ในสถานะที่สามารถนำไปตรวจได้
+## ⚠️ หมายเหตุ / ข้อควรทราบ
+
+* ระบบจะนำไฟล์ <mark style="background-color:yellow;">**Article Text ล่าสุด**</mark> ไปตรวจอัตโนมัติ
+* ตั้งแต่ เวลา **03.00 น. ของทุกวัน** และจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**ทุกครั้งที่มีการเปลี่ยนไฟล์**</mark>
+* ตั้งแต่ เวลา **03.00 น. ของทุกวัน** และจะดำเนินการตรวจสอบ <mark style="color:red;background-color:yellow;">**ทุกครั้งที่มีการเปลี่ยนไฟล์**</mark>
+* <img src=".gitbook/assets/copycatch-grey.png" alt="C สีเทา" data-size="line"> **C สีเทา** หมายถึง หมายถึง ระบบยังไม่มีผลการตรวจสอบความคล้าย เนื่องจากเกิดปัญหาในการตรวจไฟล์ หรือบทความยังไม่อยู่ในสถานะที่สามารถนำไปตรวจได้
+*   ตัวอย่างสาเหตุที่พบบ่อย ได้แก่
+
+    * อัปโหลดไฟล์ผิดประเภท\
+      (เลือก Component ไม่ใช่ **Article Text**)
+    * ไฟล์บทความเป็นไฟล์สแกน หรือไฟล์ PDF ที่ไม่สามารถคัดลอกข้อความได้
+    * ไฟล์ถูกสร้างจากโปรแกรมเวอร์ชันเก่ามาก ทำให้ระบบไม่สามารถอ่านไฟล์ได้
+    * เพิ่งอัปโหลดไฟล์ แต่ยังไม่ถึงรอบเวลาการตรวจ (ก่อนเวลา 03.00 น.)
+    * บทความยังไม่อยู่ในสถานะ **Submission / Review: Revision** ที่ระบบรองรับการตรวจ
+
+
 {% endhint %}
