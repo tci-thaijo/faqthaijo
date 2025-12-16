@@ -20,15 +20,13 @@
 
 {% columns %}
 {% column width="41.66666666666667%" valign="middle" %}
-<h4 align="center"><strong>สถานะ Submission</strong></h4>
+#### **1) สถานะ Submission**
 
 <figure><img src=".gitbook/assets/submission.png" alt="" width="128"><figcaption></figcaption></figure>
 
 <p align="center">บทความที่ส่งเข้าระบบใหม่</p>
 
-<p align="center">ไฟล์ <mark style="color:red;background-color:blue;"><strong>Article Text ล่าสุด</strong></mark><br>ในหัวข้อ Submission Files</p>
-
-<figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
+<p align="center">ไฟล์ <mark style="background-color:yellow;"><strong>Article Text ล่าสุด</strong></mark><br>ในหัวข้อ <mark style="color:orange;"><strong>Submission Files</strong></mark></p>
 {% endcolumn %}
 
 {% column width="16.666666666666668%" %}
@@ -42,8 +40,10 @@ _**เทียบกับ**_
 {% endcolumn %}
 {% endcolumns %}
 
+<figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="warning" %}
-* ระบบจะนำไฟล์ <mark style="color:red;background-color:blue;">**Article Text ล่าสุด**</mark> ไปตรวจอัตโนมัติ ตั้งแต่ เวลา 03.00 น. ของทุกวัน และ<mark style="color:red;background-color:yellow;">**ทำครั้งเดียวเท่านั้น**</mark>
+* ระบบจะนำไฟล์ <mark style="background-color:yellow;">**Article Text ล่าสุด**</mark> ไปตรวจอัตโนมัติ ตั้งแต่ เวลา 03.00 น. ของทุกวัน และ<mark style="color:red;background-color:yellow;">**ทำครั้งเดียวเท่านั้น**</mark>
 * <img src=".gitbook/assets/copycatch-grey.png" alt="C สีเทา" data-size="line"> C สีเทา หมายถึง ยังไม่มีผลการตรวจสอบความคล้าย เนื่องจาก
   * เกิดปัญหาในการตรวจไฟล์นั้น ๆ
   * บทความยังไม่อยู่ในสถานะที่สามารถนำไปตรวจได้
@@ -69,15 +69,13 @@ _**เทียบกับ**_
 
 {% columns %}
 {% column width="41.66666666666667%" valign="middle" %}
-<h4 align="center"><strong>สถานะ Submission</strong></h4>
+#### **1) สถานะ Submission**
 
 <figure><img src=".gitbook/assets/submission.png" alt="" width="128"><figcaption></figcaption></figure>
 
 <p align="center">บทความที่ส่งเข้าระบบใหม่</p>
 
-<p align="center">ไฟล์ <mark style="color:red;background-color:blue;"><strong>Article Text ล่าสุด</strong></mark><br>ในหัวข้อ Submission Files</p>
-
-<figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
+<p align="center">ไฟล์ <mark style="background-color:yellow;"><strong>Article Text ล่าสุด</strong></mark><br>ในหัวข้อ <mark style="color:orange;"><strong>Submission Files</strong></mark></p>
 {% endcolumn %}
 
 {% column width="16.666666666666668%" %}
@@ -93,17 +91,17 @@ _**เทียบกับ**_
 {% endcolumn %}
 {% endcolumns %}
 
+<figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 11.50.18.png" alt=""><figcaption></figcaption></figure>
+
 {% columns %}
 {% column width="41.66666666666667%" valign="middle" %}
-<h4 align="center"><strong>สถานะ Review</strong></h4>
+#### **2) สถานะ Review**
 
 <figure><img src=".gitbook/assets/review.png" alt="" width="97"><figcaption></figcaption></figure>
 
 <p align="center">บทความที่มีการแก้ไข</p>
 
-<p align="center">ไฟล์ <mark style="color:red;background-color:blue;"><strong>Article Text ล่าสุด</strong></mark><br>ในหัวข้อ Revisions</p>
-
-<figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 14.20.04 (1).png" alt=""><figcaption></figcaption></figure>
+<p align="center">ไฟล์ <mark style="background-color:yellow;"><strong>Article Text ล่าสุด</strong></mark><br>ในหัวข้อ <mark style="color:purple;"><strong>Revisions</strong></mark></p>
 {% endcolumn %}
 
 {% column width="16.666666666666668%" %}
@@ -119,8 +117,10 @@ _**เทียบกับ**_
 {% endcolumn %}
 {% endcolumns %}
 
+<figure><img src=".gitbook/assets/Screenshot 2568-12-16 at 14.20.04 (1).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="warning" %}
-* ระบบจะนำไฟล์ <mark style="color:red;background-color:blue;">**Article Text ล่าสุด**</mark> ไปตรวจอัตโนมัติ ตั้งแต่ เวลา 03.00 น. ของทุกวัน และ<mark style="color:red;background-color:yellow;">**ทำทุกครั้งที่มีการเปลี่ยนไฟล์**</mark>
+* ระบบจะนำไฟล์ <mark style="background-color:yellow;">**Article Text ล่าสุด**</mark> ไปตรวจอัตโนมัติ ตั้งแต่ เวลา 03.00 น. ของทุกวัน และ<mark style="color:red;background-color:yellow;">**ทำทุกครั้งที่มีการเปลี่ยนไฟล์**</mark>
 * <img src=".gitbook/assets/copycatch-grey.png" alt="C สีเทา" data-size="line"> C สีเทา หมายถึง ยังไม่มีผลการตรวจสอบความคล้าย เนื่องจาก
   * เกิดปัญหาในการตรวจไฟล์นั้น ๆ
   * บทความยังไม่อยู่ในสถานะที่สามารถนำไปตรวจได้
