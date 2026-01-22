@@ -1,6 +1,8 @@
 # 📕 คู่มือการใช้งานระบบการตรวจสอบความคล้าย (Copycatch)
 
-### <mark style="color:$success;">รูปแบบการตรวจสอบความคล้าย (Copycatch)</mark>
+### <mark style="color:$warning;">รูปแบบการตรวจสอบความคล้าย (Copycatch)</mark>
+
+มี 2 รูปแบบ ดังนี้
 
 {% columns %}
 {% column width="16.666666666666664%" %}
