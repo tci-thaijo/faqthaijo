@@ -17,9 +17,9 @@ layout:
 
 # 10. วารสารเปลี่ยนบรรณาธิการใหม่ ต้องทำอย่างไร?
 
-### <mark style="color:green;">✅</mark> <mark style="color:$success;">วิธีการจัดการ</mark>
+### <mark style="color:green;">✅ วิธีการจัดการ</mark>
 
-### 1️⃣ **แจ้งข้อมูลไปที่ TCI (เฉพาะวารสารในฐานข้อมูล TCI)**
+### <mark style="background-color:blue;">1️⃣</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">**แจ้งข้อมูลไปที่ TCI (เฉพาะวารสารในฐานข้อมูล TCI)**</mark>
 
 {% hint style="warning" %}
 **หมายเหตุ**
@@ -41,33 +41,35 @@ layout:
 
 ***
 
-### 2️⃣ แก้ไข**ข้อมูล**บนเว็บไซต์ ThaiJO ของวารสาร
+### <mark style="background-color:blue;">2️⃣ แก้ไข</mark><mark style="background-color:blue;">**ข้อมูล**</mark><mark style="background-color:blue;">บนเว็บไซต์ ThaiJO ของวารสาร</mark>
 
 {% hint style="warning" %}
 วารสารสามารถดำเนินการได้เอง ตามขั้นตอนดังนี้
 {% endhint %}
 
-<mark style="color:orange;">**2.1 ข้อมูลรายชื่อบรรณาธิการและกองบรรณาธิการวารสาร**</mark>
+<mark style="color:$primary;">**2.1 ข้อมูลรายชื่อบรรณาธิการและกองบรรณาธิการวารสาร**</mark>
 
 <figure><img src=".gitbook/assets/Screenshot 2568-09-08 at 14.40.31.png" alt="" width="188"><figcaption></figcaption></figure>
 
-* **ตั้งค่า (Settings)** → **วารสาร (Journal)** → **ข้อมูลวารสาร (Masthead)**&#x20;
-* **ข้อมูลสำคัญ (Key Information)** → **กองบรรณาธิการ (Editorial Team)**
+* **ตั้งค่า (Settings)** → **วารสาร (Journal)** → **ข้อมูลวารสาร (Masthead)** → **ข้อมูลสำคัญ (Key Information)** → **กองบรรณาธิการ (Editorial Team)**
 * กรอกข้อมูล **บรรณาธิการ (Editor-in-Chief)** **ใหม่** และ **กองบรรณาธิการ (Editorial Board) ใหม่**
+
+<figure><img src=".gitbook/assets/Screenshot 2569-01-23 at 14.14.54.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-<mark style="color:orange;">**2.2 ข้อมูลติดต่อวารสาร**</mark>
+<mark style="color:$primary;">**2.2 ข้อมูลติดต่อวารสาร**</mark>
 
 <figure><img src=".gitbook/assets/Screenshot 2568-09-08 at 14.43.45.png" alt="" width="375"><figcaption></figcaption></figure>
 
-* **ตั้งค่า (Settings)** → **วารสาร (Journal)** → **ข้อมูลวารสาร (Masthead)**&#x20;
-* **ติดต่อ (Contact)** → **หัวหน้ากองบรรณาธิการ (Principal Contact)**
+* **ตั้งค่า (Settings)** → **วารสาร (Journal)** → **ติดต่อ (Contact)** → **หัวหน้ากองบรรณาธิการ (Principal Contact)**
 * กรอกข้อมูล **บรรณาธิการ (Editor-in-Chief) ใหม่**
+
+<figure><img src=".gitbook/assets/Screenshot 2569-01-23 at 14.12.38.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
-<mark style="color:orange;">**2.3 ข้อมูลลงท้ายอีเมลในระบบ**</mark> <mark style="color:red;">**(ถ้ามี)**</mark>
+<mark style="color:$primary;">**2.3 ข้อมูลลงท้ายอีเมลในระบบ**</mark>**&#x20;**<mark style="color:red;">**(ถ้ามี)**</mark>
 
 <figure><img src=".gitbook/assets/Screenshot 2568-09-08 at 14.49.37.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -76,7 +78,7 @@ layout:
 
 ***
 
-<mark style="color:orange;">**2.4 เมนูด้านขวามือในหน้าเว็บไซต์**</mark> <mark style="color:red;">**(ถ้ามี)**</mark>
+<mark style="color:$primary;">**2.4 เมนูด้านขวามือในหน้าเว็บไซต์**</mark> <mark style="color:red;">**(ถ้ามี)**</mark>
 
 <figure><img src=".gitbook/assets/Screenshot 2568-09-08 at 14.54.18.png" alt="" width="315"><figcaption></figcaption></figure>
 
@@ -87,13 +89,15 @@ layout:
 
 ***
 
-### 3️⃣ **เพิ่ม/ลดตำแหน่งบรรณาธิการวารสารของผู้ใช้ (User) และ/หรือแก้ไขข้อมูลของผู้ใช้ (User)**
+### <mark style="background-color:blue;">3️⃣</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">**เพิ่ม/ลดตำแหน่งบรรณาธิการวารสารของผู้ใช้ (User) และ/หรือแก้ไขข้อมูลของผู้ใช้ (User)**</mark>
 
 {% hint style="warning" %}
 วารสารสามารถดำเนินการได้เอง ตามขั้นตอนดังนี้
 {% endhint %}
 
 <mark style="color:orange;">**3.1 กรณีบัญชึผู้ใช้ (User) ใช้อีเมลส่วนตัว**</mark>
+
+
 
 {% content-ref url="editrole.md" %}
 [editrole.md](editrole.md)

@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# 6. ไม่มีปุ่มตัดสินบทความ แสดงเฉพาะปุ่ม "ให้ข้อเสนอแนะ | Make Recomendation"
+# 7. ไม่มีปุ่มตัดสินบทความ แสดงเฉพาะปุ่ม "ให้ข้อเสนอแนะ | Make Recomendation"
 
 <figure><img src=".gitbook/assets/Screenshot 2568-09-08 at 10.08.47.png" alt="" width="395"><figcaption></figcaption></figure>
 
@@ -28,7 +28,11 @@ layout:
 <mark style="color:green;">✅</mark> <mark style="color:green;"></mark><mark style="color:green;">**หากต้องการจัดการบทความ**</mark>
 
 * แต่งตั้งผู้ใช้เป็นตำแหน่ง **บรรณาธิการ (Journal editor: JE)** หรือ **บรรณาธิการประจำบท/เรื่อง (Section editor: SE)**
-  * 🔧 **ขั้นตอน:** [**การเพิ่ม/ลดตำแหน่งให้กับผู้ใช้ (User)**](editrole.md)
+
+{% content-ref url="editrole.md" %}
+[editrole.md](editrole.md)
+{% endcontent-ref %}
+
 * จากนั้นไปที่หัวข้อ **ผู้มีส่วนเกี่ยวข้อง (Participants)** → มอบหมาย (Assign) เป็นผู้ดูแลบทความ
 
 ***
