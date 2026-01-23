@@ -30,7 +30,8 @@ layout:
 * อัตรา VAT จะเป็นไปตามประกาศราชกิจจานุเบกษาของปีที่มีการชำระค่าบริการ
 * **ศูนย์ฯ จะ**<mark style="color:red;">**ไม่มีการจัดส่ง**</mark>**หนังสือเรียกเก็บค่าบริการให้โดยตรง**\
   วารสารต้องเข้าสู่ <mark style="color:red;">**ระบบ Payment ThaiJO:**</mark> [https://payment.tci-thaijo.org/](https://payment.tci-thaijo.org/) เพื่อ <mark style="color:purple;">**ดาวน์โหลดหนังสือเรียกเก็บ**</mark> <mark style="color:purple;">**แจ้งชำระเงิน**</mark> และ<mark style="color:purple;">**อัปโหลดหลักฐาน**</mark>ด้วยตนเอง\
-  &#xNAN;_(ระบบ Payment ThaiJO เป็นระบบแยกจากระบบ ThaiJO และต้องสมัครสมาชิกใหม่ก่อนเข้าใช้งาน)_
+  (ระบบ Payment ThaiJO เป็นระบบแยกจากระบบ ThaiJO และต้องสมัครสมาชิกใหม่ก่อนเข้าใช้งาน)
+* สำหรับวารสารที่ประสงค์จะชำระค่าบริการ<mark style="color:red;">**แบบรายปี**</mark> สามารถเลือกวิธีการชำระแบบรายปีได้ในระบบ Payment ThaiJO
 {% endhint %}
 
 ***
