@@ -17,7 +17,7 @@ layout:
 
 # 3. ไม่สามารถ Log in เข้าสู่ระบบได้
 
-### <mark style="color:$success;">**สาเหตุที่พบบ่อย**</mark>
+### <mark style="color:green;">**สาเหตุที่พบบ่อย**</mark>
 
 ### <mark style="color:red;background-color:yellow;">**1. กรอกชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง**</mark>
 
@@ -79,7 +79,7 @@ layout:
 
 <figure><img src=".gitbook/assets/Pic-SSOuser.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**วิธีแก้ไข**</mark>
+<mark style="color:green;">✅</mark> <mark style="color:green;"></mark><mark style="color:green;">**วิธีแก้ไข:**</mark>
 
 * เข้าเว็บไซต์ ThaiJO ของวารสารที่ต้องการสมัครสมาชิก
 * สมัครสมาชิกโดย**ใช้อีเมลเดียวกับที่เคยใช้ในวารสารอื่น ๆ** ของระบบ ThaiJO
