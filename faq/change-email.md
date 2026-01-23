@@ -27,10 +27,10 @@ layout:
 Please complete all steps to avoid any errors.
 {% endhint %}
 
-### <mark style="color:$success;">🔑</mark> <mark style="color:$success;"></mark><mark style="color:$success;">**ขั้นตอนการเปลี่ยนอีเมล | Steps to Change Your Email**</mark>
+### <mark style="color:green;">🔑</mark> <mark style="color:green;"></mark><mark style="color:green;">**ขั้นตอนการเปลี่ยนอีเมล | Steps to Change Your Email**</mark>
 
 {% hint style="warning" %}
-👉 ยกตัวอย่าง เช่น ต้องการเปลี่ยนอีเมลจากเดิม **`tci_admin@gmail.com`** เป็น **`admin@XXXXXXX.com`**
+👉 ตัวอย่าง: ต้องการเปลี่ยนอีเมลจากเดิม **`tci_admin@gmail.com`** เป็น **`admin@XXXXXXX.com`**
 {% endhint %}
 
 1. **เข้าสู่ระบบ** และไปที่เมนู **Edit Profile**\
