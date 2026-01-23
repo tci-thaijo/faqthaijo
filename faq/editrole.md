@@ -25,7 +25,7 @@ layout:
 <img src=".gitbook/assets/Pic-Domain.png" alt="" data-size="original">
 {% endhint %}
 
-### <mark style="color:green;">✅</mark> วิธีการจัดการ
+### <mark style="color:green;">✅ วิธีการจัดการ</mark>
 
 1. ไปที่เมนู **Users & Roles** → **Users** → **Search**
 2. **พิมพ์ Email** ของผู้ใช้ → **กดปุ่ม Search**

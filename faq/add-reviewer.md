@@ -21,7 +21,7 @@ layout:
 
 <mark style="color:red;">**การเพิ่มผู้ประเมินจึงแบ่งออกเป็น 2 กรณี**</mark> ดังนี้
 
-### <mark style="color:green;">✅</mark> <mark style="color:$success;">วิธีการจัดการ</mark>
+### <mark style="color:green;">✅ วิธีการจัดการ</mark>
 
 ### <mark style="color:red;background-color:yellow;">**กรณีที่ 1: ผู้ประเมิน (Reviewer) อยู่ในโดเมนเดียวกันกับวารสาร**</mark>
 
