@@ -23,7 +23,7 @@ layout:
 
 ### <mark style="color:red;background-color:yellow;">**1. ผู้ใช้มีบทบาท ผู้จัดการวารสาร (Journal Manager, JM)**</mark>
 
-* Journal Manager จะไม่สามารถดำเนินการใด ๆ กับบทความได้
+* Journal Manager ไม่สามารถดำเนินการใด ๆ กับบทความได้ จะสามารถดูข้อมูลได้เพียงอย่างเดียว
 
 <mark style="color:green;">✅</mark> <mark style="color:green;"></mark><mark style="color:green;">**วิธีแก้ไข:**</mark> หากต้องการจัดการบทความ
 
@@ -32,9 +32,9 @@ layout:
 
 ***
 
-### <mark style="color:red;background-color:yellow;">**2. ผู้ใช้งานไม่มีชื่อใน ผู้มีส่วนเกี่ยวข้อง (Participants)**</mark>
+### <mark style="color:red;background-color:yellow;">**2. ผู้ใช้ไม่มีชื่อใน ผู้มีส่วนเกี่ยวข้อง (Participants)**</mark>
 
-* กระบวนการ (Workflow) ของบทความ หากผู้ใช้งานไม่ได้รับมอบหมายเป็นผู้ดูแลบทความ ระบบจะไม่อนุญาตให้จัดการข้อมูลของบทความ
+* หากผู้ใช้ไม่ได้รับมอบหมายเป็นผู้ดูแลบทความ ระบบจะไม่อนุญาตให้จัดการบทความ
 
 <mark style="color:green;">✅</mark> <mark style="color:green;"></mark><mark style="color:green;">**วิธีแก้ไข:**</mark>&#x20;
 
@@ -44,11 +44,11 @@ layout:
 
 📌 **ตัวอย่าง:**&#x20;
 
-**Somchai Rakkhan** คือผู้ดูแลบทความในตำแหน่ง**บรรณาธิการ (Journal editor: JE)** ที่กำหนดสิทธิ์ให้สามารถจัดการข้อมูลบทความได้
+**Somchai Rakkhan** คือ ผู้ดูแลบทความในตำแหน่ง**บรรณาธิการ (Journal editor: JE)** ที่กำหนดสิทธิ์ให้สามารถจัดการข้อมูลบทความได้
 
 ***
 
-### <mark style="color:red;background-color:yellow;">**3. การมอบหมายผู้ดูแลบทความ (Assign)**</mark>
+### <mark style="color:red;background-color:yellow;">**3. การกำหนดสิทธิ์ผู้ดูแลบทความ (Assign)**</mark>
 
 * หากกำหนดสิทธิ์ของผู้ดูแลบทความให้ <mark style="color:red;">**ไม่มีสิทธิ์ตัดสินบทความโดยตรง**</mark> ระบบก็จะไม่แสดงปุ่มตัดสินบทความสำหรับผู้ดูแลท่านนั้น
 
