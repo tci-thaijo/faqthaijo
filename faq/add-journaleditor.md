@@ -17,7 +17,7 @@ layout:
 
 # 11. กอง บก. ชุดเดิม ไม่ได้แจ้ง Email & Password เข้าสู่ระบบ ThaiJO กอง บก. ชุดใหม่ ต้องทำอย่างไร
 
-### <mark style="color:green;">✅</mark> <mark style="color:$success;">วิธีการจัดการ</mark>
+### <mark style="color:green;">✅ วิธีการจัดการ</mark>
 
 1. **สมัครสมาชิกในระบบ ThaiJO ของวารสาร** (กรณียังไม่มีบัญชีผู้ใช้อยู่ในวารสาร)
 

@@ -95,7 +95,7 @@ layout:
 วารสารสามารถดำเนินการได้เอง ตามขั้นตอนดังนี้
 {% endhint %}
 
-<mark style="color:orange;">**3.1 กรณีบัญชึผู้ใช้ (User) ใช้อีเมลส่วนตัว**</mark>
+**3.1 กรณีบัญชึผู้ใช้ (User)&#x20;**<mark style="color:orange;">**ใช้อีเมลส่วนตัว**</mark>
 
 
 
@@ -105,7 +105,7 @@ layout:
 
 ***
 
-**3.2&#x20;**<mark style="color:orange;">**กรณีบัญชึผู้ใช้ (User)**</mark>**&#x20;ใช้อีเมลกลางของวารสาร**
+**3.2 กรณีบัญชึผู้ใช้ (User)&#x20;**<mark style="color:orange;">**ใช้อีเมลกลางของวารสาร**</mark>
 
 <div><figure><img src=".gitbook/assets/Screenshot 2568-09-08 at 16.04.30.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Screenshot 2568-09-08 at 16.04.09.png" alt=""><figcaption></figcaption></figure></div>
 
