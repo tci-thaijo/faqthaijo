@@ -22,7 +22,8 @@ layout:
 
 * ผู้ใช้ (User) ต้องอยู่ใน <mark style="color:red;">**โดเมนเดียวกันกับวารสาร**</mark>
 
-<img src=".gitbook/assets/Pic-Domain.png" alt="" data-size="original">
+<img src=".gitbook/assets/Pic-Domain.png" alt="" data-size="original">\
+เกี่ยวกับ โดเมนของระบบ
 {% endhint %}
 
 ### <mark style="color:green;">✅ วิธีการจัดการ</mark>
