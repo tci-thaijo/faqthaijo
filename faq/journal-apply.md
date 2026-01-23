@@ -26,20 +26,20 @@ layout:
 ### <mark style="color:red;background-color:yellow;">วิธีที่ 1: เข้าร่วมอบรมการใช้งานระบบ ThaiJO</mark>
 
 * สมัครเข้าร่วมอบรมการใช้งานระบบ ThaiJO ตามรอบที่กำหนด <mark style="color:red;">**(มีค่าใช้จ่าย)**</mark>
-* รายละเอียดรอบการอบรมปี 2568 สามารถดูได้ที่: 🔗 [รายละเอียดการอบรมการใช้งานระบบ ThaiJO](https://tci-thailand.org/view?slug=training_on_how_to_use_thaijo)
+* รายละเอียดรอบการอบรม สามารถดูได้ที่: 🔗 [รายละเอียดการอบรมการใช้งานระบบ ThaiJO](https://tci-thailand.org/view?slug=training_on_how_to_use_thaijo)
 
 {% hint style="warning" %}
 **หมายเหตุ**
 
 * หาก**วารสารยังไม่มีระบบ ThaiJO** ทีมงานจะ<mark style="color:red;">**เปิดระบบ**</mark>**ให้กับวารสารใน**<mark style="color:red;">**วันสุดท้ายของการอบรม**</mark>
-* **มีค่าใช้จ่าย 2 ส่วน ได้แก่**
+* <mark style="color:$danger;">**มีค่าใช้จ่าย 2 ส่วน**</mark>**&#x20;ได้แก่**
   * **ค่าอบรมการใช้งานระบบ ThaiJO:** 🔗 [ดูรายละเอียดการอบรม](https://tci-thailand.org/view?slug=training_on_how_to_use_thaijo)
   * **ค่าบริการระบบ ThaiJO:** 🔗[ดูรายละเอียดค่าบริการ](https://tci-thailand.org/view?slug=service_charge_of_the_thaijo)
 {% endhint %}
 
 ***
 
-### <mark style="color:red;background-color:yellow;">วิธีที่ 2: ขอเปิดระบบโดย</mark>_<mark style="color:red;background-color:yellow;">ไม่</mark>_<mark style="color:red;background-color:yellow;">เข้าร่วมอบรม</mark>
+### <mark style="color:red;background-color:yellow;">วิธีที่ 2: ขอเปิดระบบโดย</mark>_<mark style="color:red;background-color:yellow;">ไม่</mark>_ <mark style="color:red;background-color:yellow;"></mark><mark style="color:red;background-color:yellow;">เข้าร่วมอบรม</mark>
 
 * สำหรับวารสารที่ยังไม่มีระบบและ <mark style="color:red;">**ไม่ประสงค์เข้ารับการอบรม**</mark>
 * ทีมงานวารสารที่<mark style="color:red;">**เคยผ่านการอบรมและมีประสบการณ์**</mark>ใช้งานระบบ ThaiJO แล้ว และต้องการขอเปิดระบบวารสารใหม่เพิ่มเติม
