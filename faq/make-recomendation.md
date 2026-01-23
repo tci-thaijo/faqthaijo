@@ -19,11 +19,11 @@ layout:
 
 <figure><img src=".gitbook/assets/Screenshot 2568-09-08 at 10.08.47.png" alt="" width="395"><figcaption></figcaption></figure>
 
-### <mark style="color:$success;">**สาเหตุที่พบ**</mark>
+### <mark style="color:green;">**สาเหตุที่พบ**</mark>
 
-### <mark style="color:red;background-color:yellow;">**1. ผู้ใช้งานทำหน้าที่เป็น ผู้จัดการวารสาร (Journal Manager, JM)**</mark>
+### <mark style="color:red;background-color:yellow;">**1. ผู้ใช้มีบทบาท ผู้จัดการวารสาร (Journal Manager, JM)**</mark>
 
-* Journal Manager จะไม่สามารถดำเนินการใด ๆ กับบทความนั้นได้
+* Journal Manager จะไม่สามารถดำเนินการใด ๆ กับบทความได้
 
 <mark style="color:green;">✅</mark> <mark style="color:green;"></mark><mark style="color:green;">**วิธีแก้ไข:**</mark> หากต้องการจัดการบทความ
 
