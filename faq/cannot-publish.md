@@ -17,7 +17,7 @@ layout:
 
 # 14. ไม่สามารถเผยแพร่บทความได้ ต้องทำอย่างไร
 
-### <mark style="color:$success;">**สาเหตุที่พบ**</mark> <a href="#undefined" id="undefined"></a>
+### <mark style="color:green;">**สาเหตุที่พบ**</mark> <a href="#undefined" id="undefined"></a>
 
 ### <mark style="color:red;background-color:yellow;">**1.**</mark> <mark style="color:red;background-color:yellow;"></mark><mark style="color:red;background-color:yellow;">บทบาทของผู้ใช้งานไม่มีสิทธิ์</mark> <a href="#id-1.-journal-manager-jm" id="id-1.-journal-manager-jm"></a>
 
@@ -33,7 +33,7 @@ layout:
 _**หรือ**_
 
 * แต่งตั้งให้ผู้ใช้นั้นเป็นตำแหน่ง **บรรณาธิการ (Journal editor: JE)**
-* หัวข้อ **ผู้มีส่วนเกี่ยวข้อง (Participants)** → มอบหมาย (Assign)  เป็นผู้ดูแลบทความ
+* หัวข้อ **ผู้มีส่วนเกี่ยวข้อง (Participants)** → มอบหมาย (Assign) เป็นผู้ดูแลบทความ
 
 <figure><img src=".gitbook/assets/Screenshot 2568-09-08 at 16.04.09.png" alt="" width="264"><figcaption></figcaption></figure>
 

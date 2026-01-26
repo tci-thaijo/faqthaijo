@@ -17,11 +17,9 @@ layout:
 
 # 17. วารสารต้องการเปลี่ยนแปลง URL เว็บไซต์ในระบบ ThaiJO ต้องทำอย่างไร
 
-### <mark style="color:$success;">คำตอบ</mark>
+> การเปลี่ยน URL เว็บไซต์ของวารสารจะทำให้ลิงก์การเข้าถึงเว็บไซต์และบทความ <mark style="color:red;">**เปลี่ยนทั้งหมด**</mark>
 
-การเปลี่ยน URL เว็บไซต์วารสารจะทำให้ลิงก์การเข้าถึงเว็บไซต์และบทความ <mark style="color:red;">**เปลี่ยนทั้งหมด**</mark>
-
-### <mark style="color:$success;">ผลกระทบที่อาจเกิดขึ้น</mark>
+### <mark style="color:green;">ผลกระทบที่อาจเกิดขึ้น</mark>
 
 1. <mark style="color:red;">**การสูญเสียการจดจำ URL**</mark>
    * ผู้ใช้ที่เคยบันทึกหรือบุ๊กมาร์ก URL เดิม จะไม่สามารถเข้าถึงเว็บไซต์ได้เมื่อมีการเปลี่ยนแปลง
@@ -48,7 +46,7 @@ layout:
 {% hint style="warning" %}
 **ข้อแนะนำเพิ่มเติม:**
 
-* ควรเปลี่ยน URL **เฉพาะกรณีจำเป็นจริง ๆ**
+* ควรเปลี่ยน URL <mark style="color:red;">**เฉพาะกรณีจำเป็นจริง ๆ**</mark>
 * หากต้องการเปลี่ยน ควรจัดทำ **แผนการย้าย (Migration Plan)** เช่น
   * **แจ้งผู้ใช้ล่วงหน้า** (บรรณาธิการ, ผู้ประเมิน, ผู้แต่ง, ผู้อ่าน) รวมถึงหน่วยงานต่าง ๆ ที่เกี่ยวข้อง
   * **การอัปเดต Metadata** และ **ฐานข้อมูลภายนอก**&#x20;
@@ -63,13 +61,13 @@ layout:
 
 ***
 
-### <mark style="color:red;background-color:yellow;">📌</mark> <mark style="color:red;background-color:yellow;"></mark><mark style="color:red;background-color:yellow;">**วารสารยืนยันเปลี่ยนแปลง URL**</mark>
+### <mark style="color:red;background-color:yellow;">📌 แจ้ง</mark><mark style="color:red;background-color:yellow;">**ยืนยันเปลี่ยนแปลง URL ของวารสาร**</mark>
 
 1. **กรอกแบบฟอร์ม**📄 **:**&#x20;
 
-<p align="center">🔗 <a href="https://forms.gle/KgPH6cvqc2NTtoNK6"><strong>การขอแก้ไข URL เว็บไซต์ของวารสารในระบบ ThaiJO</strong></a></p>
+> 🔗 [**การขอแก้ไข URL เว็บไซต์ของวารสารในระบบ ThaiJO**](https://forms.gle/KgPH6cvqc2NTtoNK6)
 
-2. **แจ้งแอดมิน ThaiJO** (หลังจากกรอกแบบฟอร์มเรียบร้อยแล้ว )
+2. **แจ้งแอดมิน ThaiJO** (<mark style="color:red;">หลังจากกรอกแบบฟอร์มเรียบร้อยแล้ว</mark>)
    * 📫 **ช่องทางติดต่อ | Contact**
      * 📩 Facebook: [ThaiJO2.0](https://www.facebook.com/ThaiJo2.0)
      * 📩 Line ID: **@135rfmha**
