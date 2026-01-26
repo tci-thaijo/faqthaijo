@@ -72,11 +72,11 @@ layout:
 <div><figure><img src=".gitbook/assets/Screenshot 2568-09-11 at 13.10.34.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Screenshot 2568-09-11 at 11.32.59.png" alt=""><figcaption></figcaption></figure></div>
 
 3. **Publication ของบทความ**
-   * **Metadata** → ปรับข้อมูลบทความ: Title, Abstract, Contributors, Keyword, Reference (ถ้ามี)ให้ตรงกับไฟล์ PDF
+   * **Metadata** → แก้ไขข้อมูลบทความ: Title, Abstract, Contributors, Keyword, Reference (ถ้ามี)ให้ตรงกับไฟล์ PDF
    * **Galleys** → อัปโหลดไฟล์ Galley (PDF)
    * **Issue** →
      * _Pages_: กรอกเลขหน้า
-     * _Date Published_: กรอกวันที่นำเข้าฉบับ (ใช้วันเดียวกับวันที่เผยแพร่ฉบับ, รูปแบบ: ปี(ค.ศ.)-เดือน-วัน
+     * _Date Published_: กรอกวันที่นำเข้าฉบับ (วันที่นำเข้าฉบับในระบบ (รูปแบบ: ปี(ค.ศ.)-เดือน-วัน) ซึ่งอาจตรงกับหรือแตกต่างจากวันที่เผยแพร่ฉบับก็ได้)
      * Save
    * กด **Schedule For Publication** → **เลือกฉบับ (Issue)** → กด **Publish**
    * ✅ บทความเข้าสู่ฉบับ (Issue) และเผยแพร่เรียบร้อยแล้ว (Published)
@@ -90,7 +90,7 @@ layout:
 
 <figure><img src=".gitbook/assets/Screenshot 2568-09-11 at 14.30.32.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### <mark style="color:red;background-color:yellow;">**2️⃣ ลบบทความ ID ใหม่ (วารสารใช้ QuickSubmit)**</mark>
+### <mark style="color:red;background-color:yellow;">**2️⃣ ลบบทความ ID ใหม่ (วารสารนำเข้าบทความด้วย QuickSubmit)**</mark>
 
 1. **ค้นหาบทความ**
    * ค้นหาบทความที่ **Archives (คลังบทความ)** → **เข้าไปที่บทความ**
