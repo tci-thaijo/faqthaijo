@@ -19,7 +19,7 @@ layout:
 
 การถอดถอนบทความ (RETRACTED ARTICLE) เป็นกระบวนการที่วารสารควรดำเนินการอย่างโปร่งใส ถูกต้องตามจริยธรรม และสามารถสืบค้นได้ในระบบดัชนี (Index) ต่าง ๆ เพื่อให้ผู้อ่านและผู้ใช้ฐานข้อมูลทราบว่าบทความดังกล่าวถูกถอดถอนแล้ว
 
-### ✅ <mark style="color:$success;">**วิธีการจัดการ**</mark>
+### ✅ <mark style="color:green;">**วิธีการจัดการ**</mark>
 
 #### <mark style="color:red;background-color:yellow;">**1. เพิ่มลายน้ำ (Watermark):**</mark>
 
@@ -36,7 +36,7 @@ layout:
 
 ***
 
-#### <mark style="color:red;background-color:yellow;">**2. แก้ไขชื่อบทความใน Metadata:**</mark>&#x20;
+#### <mark style="color:red;background-color:yellow;">**2. แก้ไขชื่อบทความใน Metadata**</mark>&#x20;
 
 เพิ่มคำว่า "**\[RETRACTED ARTICLE]"** หรือ **"RETRACTED ARTICLE"** หรือ **"RETRACTED"** หน้า **ชื่อบทความ**
 
@@ -52,7 +52,7 @@ layout:
 
 ***
 
-#### <mark style="color:red;background-color:yellow;">**3. ระบุเหตุผลการถอดถอนบทความ (ถ้ามี)**</mark>
+#### <mark style="color:red;background-color:yellow;">**3. ระบุเหตุผลการถอดถอนบทความ**</mark>
 
 * สามารถระบุเหตุผล **แทนที่** เนื้อหาของบทคัดย่อ ทั้งภาษาไทยและภาษาอังกฤษ
 
@@ -60,11 +60,15 @@ layout:
 
 ***
 
-#### <mark style="color:red;background-color:yellow;">**4. เผยแพร่บทความหรือเอกสารประกอบการถอดถอน (ถ้ามี)**</mark>
+#### <mark style="color:red;background-color:yellow;">**4. การเผยแพร่เอกสารประกอบการถอดถอน (Retraction) (ถ้ามี)**</mark>
 
-* เขียนบทบรรณาธิการ หรือสร้างประเภทบทความ (Section) ใหม่ เช่น **Retraction Note**  หรือ **Comment**
-* เผยแพร่บทความ/เอกสารที่ระบุข้อมูลของบทความที่ถูกถอดถอน ได้แก่ **ชื่อบทความ**, **ปีที่**, **ฉบับที่**, **เลขหน้า** และ**เหตุผลการถอดถอน**
-* บทความ/เอกสารนี้ควร **References** ถึงบทความที่ถูกถอดถอน และอ้างอิงถึง **หลักจริยธรรมการตีพิมพ์ของวารสาร** (กรณีที่มีการละเมิดจริยธรรมการวิจัย/การตีพิมพ์)
+* เผยแพร่บทความหรือเอกสารการถอดถอนในรูปแบบ **บทบรรณาธิการ**\
+  &#xNAN;_&#xE2B;รือ_ เผยแพร่ในประเภทบทความ (Section) ที่สร้างขึ้นใหม่ เช่น **Retraction Note** หรือ **Comment**
+* ในบทความหรือเอกสารการถอดถอน ให้ระบุข้อมูลของบทความที่ถูกถอดถอนให้ครบถ้วน ได้แก่ **ชื่อบทความ** **ปีที่ (Volume) ฉบับที่ (Issue) เลขหน้า เหตุผลในการถอดถอน**&#x20;
+* การเขียนเอกสารอ้างอิง **(References)** ของบทความหรือเอกสารการถอดถอน โดยอ้างอิงถึง&#x20;
+  * &#x20;**บทความที่ถูกถอดถอน**&#x20;
+  * และ/หรือ **หลักจริยธรรมการตีพิมพ์ของวารสาร** เช่น COPE Retraction Guidelines, Journal Ethics Policy (กรณีที่มีการละเมิดจริยธรรมการวิจัย/การตีพิมพ์)
+* เชื่อมโยง (link) ระหว่าง บทความหรือเอกสารการถอดถอน และ บทความที่ถูกถอดถอน&#x20;
 
 {% hint style="info" %}
 **ตัวอย่าง**
@@ -74,7 +78,7 @@ layout:
 
 ***
 
-### 📝 <mark style="color:$success;">**แนวทางการปฏิบัติที่เกี่ยวข้องกับ TCI**</mark>
+### 📝 <mark style="color:green;">**แนวทางการปฏิบัติที่เกี่ยวข้องกับ TCI**</mark>
 
 1\. หากวารสารได้ดำเนินการไปแล้วอย่างไร ขอให้วารสารทำหนังสือแจ้งกลับมายังศูนย์ TCI ทางอีเมล [tci.thai@gmail.com](mailto:tci.thai@gmail.com) เพื่อที่ทางศูนย์ TCI ดำเนินการแก้ไขข้อมูลบทความดังกล่าวในฐานข้อมูล TCI ต่อไป
 
@@ -92,9 +96,9 @@ layout:
 
 ***
 
-### <mark style="color:$success;">🔗</mark> <mark style="color:$success;"></mark><mark style="color:$success;">**แหล่งข้อมูลอื่น ๆ ที่เกี่ยวข้อง**</mark>
+### <mark style="color:$success;">🔗</mark> <mark style="color:green;">**แหล่งข้อมูลอื่น ๆ ที่เกี่ยวข้อง**</mark>
 
-* **สำหรับค้นหาบทความที่ถูกถอน:** [http://retractiondatabase.org/RetractionSearch.aspx?](http://retractiondatabase.org/RetractionSearch.aspx?)
+* **เว็บไซต์สำหรับค้นหาบทความที่ถูกถอน:** [http://retractiondatabase.org/RetractionSearch.aspx?](http://retractiondatabase.org/RetractionSearch.aspx?)
 * **COPE’s Retraction Guidelines:** [https://publicationethics.org/guidance/guideline/retraction-guidelines](https://publicationethics.org/guidance/guideline/retraction-guidelines)
 
 &#x20;
