@@ -19,13 +19,13 @@ layout:
 
 <figure><img src=".gitbook/assets/Picture13.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:$success;">สาเหตุที่พบ</mark>
+### <mark style="color:green;">สาเหตุที่พบ</mark>
 
 เครื่องคอมพิวเตอร์ของผู้ใช้อาจมีการติดตั้งฟอนต์เพิ่มเติม หรือฟอนต์ที่ใช้บนเว็บไม่ตรงกับฟอนต์ในระบบปฏิบัติการ ทำให้ตัวอักษรบนหน้าเว็บอ่านไม่ถูกต้อง
 
 ***
 
-### ✅ <mark style="color:$success;">**วิธีการจัดการ**</mark>
+### ✅ <mark style="color:green;">**วิธีการจัดการ**</mark>
 
 #### 1️⃣ **เปลี่ยนเครื่องลองเปิดเว็บอีกเครื่อง**
 
