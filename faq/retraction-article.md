@@ -102,3 +102,5 @@ layout:
 * **COPE’s Retraction Guidelines:** [https://publicationethics.org/guidance/guideline/retraction-guidelines](https://publicationethics.org/guidance/guideline/retraction-guidelines)
 
 &#x20;
+
+***
