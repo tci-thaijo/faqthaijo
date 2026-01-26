@@ -40,8 +40,10 @@ layout:
 
 เพิ่มคำว่า "**\[RETRACTED ARTICLE]"** หรือ **"RETRACTED ARTICLE"** หรือ **"RETRACTED"** หน้า **ชื่อบทความ**
 
-* **\[RETRACTED ARTICLE]** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-* **RETRACTED:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+> เช่น
+>
+> * **\[RETRACTED ARTICLE]** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+> * **RETRACTED:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 
 {% hint style="info" %}
 **ตัวอย่าง**
@@ -60,11 +62,11 @@ layout:
 
 ***
 
-#### <mark style="color:red;background-color:yellow;">**4. การเผยแพร่เอกสารประกอบการถอดถอน (Retraction) (ถ้ามี)**</mark>
+#### <mark style="color:red;background-color:yellow;">**4. เผยแพร่เอกสารประกอบการถอดถอน (Retraction) (ถ้ามี)**</mark>
 
 * เผยแพร่บทความหรือเอกสารการถอดถอนในรูปแบบ **บทบรรณาธิการ**\
   &#xNAN;_&#xE2B;รือ_ เผยแพร่ในประเภทบทความ (Section) ที่สร้างขึ้นใหม่ เช่น **Retraction Note** หรือ **Comment**
-* ในบทความหรือเอกสารการถอดถอน ให้ระบุข้อมูลของบทความที่ถูกถอดถอนให้ครบถ้วน ได้แก่ **ชื่อบทความ** **ปีที่ (Volume) ฉบับที่ (Issue) เลขหน้า เหตุผลในการถอดถอน**&#x20;
+* บทความหรือเอกสารการถอดถอน ให้ระบุข้อมูลของบทความที่ถูกถอดถอนให้ครบถ้วน ได้แก่ **ชื่อบทความ** **ปีที่ (Volume) ฉบับที่ (Issue) เลขหน้า** และ**เหตุผลในการถอดถอน**&#x20;
 * การเขียนเอกสารอ้างอิง **(References)** ของบทความหรือเอกสารการถอดถอน โดยอ้างอิงถึง&#x20;
   * &#x20;**บทความที่ถูกถอดถอน**&#x20;
   * และ/หรือ **หลักจริยธรรมการตีพิมพ์ของวารสาร** เช่น COPE Retraction Guidelines, Journal Ethics Policy (กรณีที่มีการละเมิดจริยธรรมการวิจัย/การตีพิมพ์)
