@@ -14,9 +14,9 @@
 
 2. ศูนย์ TCI จะไม่จัดส่งหนังสือเรียกเก็บค่าบริการเป็นรายวารสารโดยตรง โดยวารสารต้องดำเนินการต่าง ๆ ผ่าน <mark style="color:red;">**ระบบ Payment ThaiJO ที่:**</mark>
 
-> #### 🔗 [https://payment.tci-thaijo.org/](https://payment.tci-thaijo.org/)
+> #### 🔗 [**https://payment.tci-thaijo.org/**](https://payment.tci-thaijo.org/)
 >
-> เพื่อ <mark style="color:$primary;">**ดาวน์โหลดหนังสือเรียกเก็บ**</mark> <mark style="color:$primary;">**แจ้งชำระเงิน**</mark> และ<mark style="color:$primary;">**อัปโหลดหลักฐานการชำระเงิน**</mark> ผ่านระบบ Payment ด้วยตนเอง
+> เพื่อ <mark style="color:$primary;">**ดาวน์โหลดหนังสือเรียกเก็บ**</mark> <mark style="color:$primary;">**แจ้งชำระเงิน**</mark> และ<mark style="color:$primary;">**อัปโหลดหลักฐานการชำระเงิน**</mark> ด้วยตนเอง
 
 3. สำหรับวารสารที่ประสงค์จะชำระค่าบริการ<mark style="color:red;">**แบบรายปี**</mark> สามารถเลือกวิธีการชำระแบบรายปีได้ในระบบ Payment ThaiJO
 4. ใบเสร็จรับเงินจะจัดส่งให้ทางอีเมลในรูปแบบไฟล์อิเล็กทรอนิกส์ หรือสามารถดาวน์โหลดได้ผ่านระบบ Payment ThaiJO
