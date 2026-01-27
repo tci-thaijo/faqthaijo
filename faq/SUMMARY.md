@@ -23,3 +23,4 @@
 * [20. การถอดถอนบทความ (Retraction Article)](retraction-article.md)
 * [21. หน้าเว็บตัวอักษรอ่านไม่ออก ต้องทำอย่างไร](text-not-readable.md)
 * [22. การเก็บเกี่ยวข้อมูล Metadata ผ่าน OAI ทำได้อย่างไร](metadata-oai.md)
+* [23. การแสดงรูปภาพที่หน้าข่าวประกาศ (Announcements)](23.-announcements.md)
