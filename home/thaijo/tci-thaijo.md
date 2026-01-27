@@ -19,17 +19,25 @@ layout:
 
 ## 🔶 <mark style="background-color:orange;">TCI (Thai-Journal Citation Index Centre: ศูนย์ดัชนีการอ้างอิงวารสารไทย)</mark>
 
-คือหน่วยงานความร่วมมือระหว่าง มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.) และ ศูนย์เทคโนโลยีอิเล็กทรอนิกส์และคอมพิวเตอร์แห่งชาติ (เนคเทค) สวทช.
+คือ หน่วยงานความร่วมมือระหว่าง มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.) และ ศูนย์เทคโนโลยีอิเล็กทรอนิกส์และคอมพิวเตอร์แห่งชาติ (เนคเทค) สวทช.
 
-### <mark style="color:$success;">**ภารกิจหลัก 5 ประการ ได้แก่**</mark>
+### ศูนย์ TCI มีพันธกิจหลัก 5 ประการ คือ
 
-1. พัฒนาระบบการบริหารจัดการฐานข้อมูลวารสารวิชาการไทย พร้อมทั้งประเมินคุณภาพวารสารและจัดกลุ่มตามคุณภาพ (TCI กลุ่ม 1, กลุ่ม 2, กลุ่ม 3)
-2. พัฒนาคุณภาพวารสารไทยเพื่อเข้าสู่ฐานข้อมูลระดับนานาชาติ และยกระดับมาตรฐานวิชาการของวารสารไทย
-3. พัฒนาระบบวิเคราะห์สมรรถนะการวิจัยของประเทศ เพื่อใช้ประโยชน์ในการกำหนดนโยบายและทิศทางการวิจัย
-4. พัฒนาศักยภาพบรรณาธิการและกองบรรณาธิการวารสารไทย ให้มีมาตรฐานระดับสากล ทั้งในด้านจริยธรรมและการบริหารจัดการวารสาร
-5. ส่งเสริมความร่วมมือกับภาคีเครือข่ายทั้งในระดับชาติและนานาชาติ
+1. พัฒนาระบบการบริหารจัดการฐานข้อมูลสำหรับวารสารวิชาการไทย
+2. พัฒนาคุณภาพวารสารไทยเพื่อการบรรจุในฐานข้อมูลนานาชาติและยกระดับคุณภาพวารสารไทยให้สูงขึ้น
+3. พัฒนาระบบวิเคราะห์สมรรถนะการวิจัยของประเทศเพื่อประโยชน์ต่อการกำหนดนโยบาย และทิศทางงานวิจัยของสถาบันวิจัย มหาวิทยาลัย และหน่วยงานให้ทุนของไทย
+4. พัฒนาคุณภาพบรรณาธิการและกองบรรณาธิการวารสารไทย ให้มีมาตรฐานในระดับสากล ทั้งในด้านจริยธรรมและจรรยาบรรณ และการบริหารจัดการวารสาร
+5. พัฒนาความร่วมมือกับภาคีเครือข่ายที่เกี่ยวข้องทั้งในระดับชาติและระดับนานาชาติ
 
-### <mark style="color:$success;">**แพลตฟอร์มและเครื่องมือภายใต้ TCI ได้แก่**</mark>
+### Mission of the TCI Centre
+
+1. Develop a database management system for Thai journals.
+2. Enhance the quality of Thai journals to be included in international databases and elevate the overall standard of Thai journals.
+3. Develop a system for analyzing the research performance of the country to support policy-making and guide the research direction of research institutes, universities, and funding agencies in Thailand.
+4. Improve the quality of editor-in-chief and editorial boards to meet international standards in ethics, professionalism, and journal management.
+5. Develop cooperation with relevant network partners at both the national and international levels
+
+### **แพลตฟอร์มและเครื่องมือภายใต้ TCI ได้แก่**
 
 1. <mark style="color:red;">**TCI Database**</mark> – ฐานข้อมูลการอ้างอิงวารสารวิชาการไทย (Index and Citation database)
 2. <mark style="color:red;">**Fast-Track Indexing System**</mark> – แพลตฟอร์มสำหรับบรรณาธิการในการบันทึกข้อมูลของบทความเข้าสู่ฐานข้อมูล TCI
@@ -52,7 +60,7 @@ layout:
 * การเผยแพร่บทความ (Publishing)
 
 {% hint style="info" %}
-## 👉  ข้อมูลเพิ่มเติม
+### 👉 ข้อมูลเพิ่มเติม
 
 * ThaiJO เป็นหนึ่งในแพลตฟอร์มและเครื่องมือภายใต้การพัฒนาของศูนย์ TCI
 * รองรับทั้งวารสารที่ได้รับการบรรจุในฐานข้อมูล TCI (กลุ่ม 1, 2, 3) และวารสารที่ยังไม่อยู่ในฐานข้อมูล TCI
