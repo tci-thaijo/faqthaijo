@@ -21,7 +21,7 @@ layout:
 
 ***
 
-## 🔗 <mark style="color:$success;">การเชื่อมโยงข้อมูลระหว่างระบบ</mark>
+## 🔗 <mark style="color:green;">การเชื่อมโยงข้อมูลระหว่างระบบ</mark>
 
 ### 📙 <mark style="color:blue;">ThaiJO →</mark> 📚 <mark style="color:blue;">TCI</mark>
 
