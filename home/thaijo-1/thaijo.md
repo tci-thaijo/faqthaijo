@@ -8,7 +8,10 @@
 
 ### <mark style="color:red;background-color:yellow;">ข้อควรทราบ</mark>
 
-1. ศูนย์ TCI จะประกาศรอบการชำระค่าบริการ ThaiJO ผ่านทางเว็บไซต์ TCI และทางเฟซบุ๊กเพจ ThaiJO2.0&#x20;
+1. ศูนย์ TCI จะประกาศรอบการชำระค่าบริการ ThaiJO ผ่านทางเว็บไซต์ TCI และทางเฟซบุ๊กเพจ ThaiJO2.0
+
+> 🌐 [**ประกาศการเรียกเก็บและการชำระค่าบริการ ThaiJO**](https://tci-thailand.org/view?slug=service_charge_of_the_thaijo)&#x20;
+
 2. ศูนย์ TCI จะไม่จัดส่งหนังสือเรียกเก็บค่าบริการเป็นรายวารสารโดยตรง โดยวารสารต้องดำเนินการต่าง ๆ ผ่าน <mark style="color:red;">**ระบบ Payment ThaiJO ที่:**</mark>
 
 > #### 🔗 [https://payment.tci-thaijo.org/](https://payment.tci-thaijo.org/)
@@ -18,7 +21,3 @@
 3. สำหรับวารสารที่ประสงค์จะชำระค่าบริการ<mark style="color:red;">**แบบรายปี**</mark> สามารถเลือกวิธีการชำระแบบรายปีได้ในระบบ Payment ThaiJO
 4. ใบเสร็จรับเงินจะจัดส่งให้ทางอีเมลในรูปแบบไฟล์อิเล็กทรอนิกส์ หรือสามารถดาวน์โหลดได้ผ่านระบบ Payment ThaiJO
 5. อัตราภาษีมูลค่าเพิ่ม (VAT) เป็นไปตามประกาศราชกิจจานุเบกษาของปีที่มีการชำระค่าบริการ
-
-***
-
-### 🌐 [**ประกาศการเรียกเก็บและการชำระค่าบริการ ThaiJO**](https://tci-thailand.org/view?slug=service_charge_of_the_thaijo)
