@@ -10,7 +10,7 @@
 * [🔄 ข้อแตกต่างระหว่าง TCI และ ThaiJO](thaijo/tci-thaijo.md)
 * [🪢 การเชื่อมโยงข้อมูลระหว่าง ThaiJO, TCI และ ThaiRAP](thaijo/thaijo-tci-thairap.md)
 
-## การขอใช้งานและค่าบริการระบบ ThaiJO
+## การขอใช้งานและค่าบริการระบบ ThaiJO <a href="#apply-fee" id="apply-fee"></a>
 
-* [🕍 การขอใช้งานระบบ ThaiJO](thaijo-1/thaijo.md)
-* [🏦 การชำระค่าบริการระบบ ThaiJO](thaijo-1/thaijo-1.md)
+* [🕍 การขอใช้งานระบบ ThaiJO](apply-fee/apply.md)
+* [🏦 การชำระค่าบริการระบบ ThaiJO](apply-fee/fee.md)
