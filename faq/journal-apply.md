@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   width: default
   title:
@@ -61,3 +62,4 @@ layout:
 * **ศึกษาการใช้งานระบบได้จาก:** 📖 [คู่มือการใช้งานระบบ ThaiJO](https://docs.google.com/document/d/1Iq97FmQkaGOzJzXTsxJifq00vBXdIYxRK2zTn828KKM/edit)
 * **ค่าบริการระบบ ThaiJO:** 🔗 [ดูรายละเอียดค่าบริการ](https://tci-thailand.org/view?slug=service_charge_of_the_thaijo)
 {% endhint %}
+

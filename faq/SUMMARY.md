@@ -1,6 +1,8 @@
 # Table of contents
 
 * [📝 ภาพรวม FAQ ThaiJO](README.md)
+* [1. วารสารต้องการใช้งานระบบ ThaiJO ต้องทำอย่างไร](https://tci-thaijo.gitbook.io/thaijo/thaijo-1/thaijo)
+* [2. การชำระค่าบริการระบบ ThaiJO](https://tci-thaijo.gitbook.io/thaijo/thaijo-1/thaijo-1)
 * [1. วารสารต้องการใช้งานระบบ ThaiJO ต้องทำอย่างไร](journal-apply.md)
 * [2. การเรียกเก็บค่าบริการระบบ ThaiJO](thaijo-fee.md)
 * [3. ไม่สามารถ Log in เข้าสู่ระบบได้](login.md)
