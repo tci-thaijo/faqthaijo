@@ -6,7 +6,7 @@
 
 {% columns %}
 {% column width="16.666666666666664%" %}
-<h4 align="center"><mark style="color:blue;"><strong>แบบที่ 1</strong></mark></h4>
+<h3 align="center"><mark style="color:blue;"><strong>แบบที่ 1</strong></mark></h3>
 {% endcolumn %}
 
 {% column width="16.666666666666664%" %}
@@ -14,7 +14,7 @@
 {% endcolumn %}
 
 {% column width="66.66666666666667%" %}
-#### <mark style="color:blue;">**ตรวจเทียบกับบทความที่ยังไม่เผยแพร่**</mark>
+### <mark style="color:blue;">**ตรวจเทียบกับบทความที่ยังไม่เผยแพร่**</mark>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -52,7 +52,7 @@ _**เทียบกับ**_
 
 {% columns %}
 {% column width="16.666666666666664%" %}
-<h4 align="center"><mark style="color:red;"><strong>แบบที่ 2</strong></mark></h4>
+<h3 align="center"><mark style="color:red;"><strong>แบบที่ 2</strong></mark></h3>
 {% endcolumn %}
 
 {% column width="16.666666666666664%" %}
@@ -60,7 +60,7 @@ _**เทียบกับ**_
 {% endcolumn %}
 
 {% column width="66.66666666666667%" %}
-#### <mark style="color:red;">**ตรวจเทียบกับบทความที่เผยแพร่แล้ว**</mark>
+### <mark style="color:red;">**ตรวจเทียบกับบทความที่เผยแพร่แล้ว**</mark>
 {% endcolumn %}
 {% endcolumns %}
 
